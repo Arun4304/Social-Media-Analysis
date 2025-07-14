@@ -29,19 +29,29 @@ filtered_df = df[
 
 st.subheader("⏳ Time Spent vs. Video Length")
 
-fig, ax = plt.subplots()
-sns.scatterplot(data=filtered_df, x="Video_Length", y="Time_Spent_On_Video", hue="Platform", ax=ax)
-st.pyplot(fig)
+df["Video_Length_Bin"] = pd.cut(df["Video_Length"], bins=[0, 5, 10, 15, 20, 25, 30], labels=["0-5", "6-10", "11-15", "16-20", "21-25", "26-30"])
+plt.figure(figsize=(8, 6))
+sns.boxplot(data=df, x="Video_Length_Bin", y="Time_Spent_On_Video")
+plt.title("Time Spent by Binned Video Length")
+plt.xlabel("Video Length Bin (minutes)")
+plt.tight_layout()
+plt.show()
+
 
 st.subheader("💥 Addiction Level by Age Group")
 
-fig, ax = plt.subplots()
-sns.boxplot(data=filtered_df, x="Platform", y="Addiction_Level", ax=ax)
-st.pyplot(fig)
+df['Age_Group'] = pd.cut(df['Age'], bins=[0, 18, 25, 35, 50, 100], labels=['<18', '18-25', '26-35', '36-50', '50+'])
+plt.figure(figsize=(8,5))
+sns.boxplot(data=df, x='Age_Group', y='Addiction_Level')
+plt.title("Addiction Level by Age Group")
+plt.show()
 
-st.subheader("📉 Productivity Loss by Watch Reason")
 
-fig, ax = plt.subplots()
-sns.barplot(data=filtered_df, x="Watch_Reason", y="Productivity_Loss", estimator="mean", ax=ax)
+st.subheader("📉 Productivity loss by platform, watch reason, and current activity")
+
+plt.figure(figsize=(12, 6))
+sns.boxplot(data=df, x="Platform", y="Productivity_Loss", hue="Watch_Reason")
+plt.title("Productivity Loss by Platform and Watch Reason")
 plt.xticks(rotation=45)
-st.pyplot(fig)
+plt.tight_layout()
+plt.show()
