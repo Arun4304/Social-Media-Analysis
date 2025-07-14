@@ -3,19 +3,24 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+# Set Streamlit page configuration
 st.set_page_config(page_title="Digital Platform Usage Dashboard", layout="wide")
 
 # Load Data
 @st.cache_data
 def load_data():
-    return pd.read_csv("data.csv")
+    df = pd.read_csv("data.csv")
 
+    # Clean column names: replace spaces with underscores for easier access
+    df.columns = df.columns.str.replace(" ", "_").str.strip()
+
+    return df
+
+# Load and clean data
 df = load_data()
 
-st.title("📱 Digital Habits & Behavioral Insights Dashboard")
-st.markdown("Analyze social media/video platform usage behavior with real user data.")
-
 # Sidebar Filters
+st.sidebar.header("🔎 Filter Options")
 platforms = df["Platform"].unique().tolist()
 selected_platform = st.sidebar.multiselect("Select Platform(s)", platforms, default=platforms)
 
@@ -27,31 +32,50 @@ filtered_df = df[
     (df["Age"] >= age_range[0]) & (df["Age"] <= age_range[1])
 ]
 
+# Main Title
+st.title("📱 Digital Habits & Behavioral Insights Dashboard")
+st.markdown("Analyze social media/video platform usage behavior with real user data.")
+
+# --- Q1: Time Spent vs. Video Length (Boxplot) ---
 st.subheader("⏳ Time Spent vs. Video Length")
 
-df["Video_Length_Bin"] = pd.cut(df["Video_Length"], bins=[0, 5, 10, 15, 20, 25, 30], labels=["0-5", "6-10", "11-15", "16-20", "21-25", "26-30"])
-plt.figure(figsize=(8, 6))
-sns.boxplot(data=df, x="Video_Length_Bin", y="Time_Spent_On_Video")
-plt.title("Time Spent by Binned Video Length")
-plt.xlabel("Video Length Bin (minutes)")
-plt.tight_layout()
-plt.show()
+# Create video length bins
+filtered_df["Video_Length_Bin"] = pd.cut(
+    filtered_df["Video_Length"],
+    bins=[0, 5, 10, 15, 20, 25, 30],
+    labels=["0-5", "6-10", "11-15", "16-20", "21-25", "26-30"]
+)
 
+# Plot
+fig1, ax1 = plt.subplots(figsize=(8, 6))
+sns.boxplot(data=filtered_df, x="Video_Length_Bin", y="Time_Spent_On_Video", ax=ax1)
+ax1.set_title("Time Spent by Binned Video Length")
+ax1.set_xlabel("Video Length Bin (minutes)")
+ax1.set_ylabel("Time Spent (minutes)")
+st.pyplot(fig1)
 
+# --- Q2: Addiction Level by Age Group ---
 st.subheader("💥 Addiction Level by Age Group")
 
-df['Age_Group'] = pd.cut(df['Age'], bins=[0, 18, 25, 35, 50, 100], labels=['<18', '18-25', '26-35', '36-50', '50+'])
-plt.figure(figsize=(8,5))
-sns.boxplot(data=df, x='Age_Group', y='Addiction_Level')
-plt.title("Addiction Level by Age Group")
-plt.show()
+filtered_df["Age_Group"] = pd.cut(
+    filtered_df["Age"],
+    bins=[0, 18, 25, 35, 50, 100],
+    labels=["<18", "18-25", "26-35", "36-50", "50+"]
+)
 
+fig2, ax2 = plt.subplots(figsize=(8, 5))
+sns.boxplot(data=filtered_df, x="Age_Group", y="Addiction_Level", ax=ax2)
+ax2.set_title("Addiction Level by Age Group")
+ax2.set_ylabel("Addiction Level")
+st.pyplot(fig2)
 
-st.subheader("📉 Productivity loss by platform, watch reason, and current activity")
+# --- Q3: Productivity Loss by Platform and Watch Reason ---
+st.subheader("📉 Productivity Loss by Platform and Watch Reason")
 
-plt.figure(figsize=(12, 6))
-sns.boxplot(data=df, x="Platform", y="Productivity_Loss", hue="Watch_Reason")
-plt.title("Productivity Loss by Platform and Watch Reason")
-plt.xticks(rotation=45)
-plt.tight_layout()
-plt.show()
+fig3, ax3 = plt.subplots(figsize=(12, 6))
+sns.boxplot(data=filtered_df, x="Platform", y="Productivity_Loss", hue="Watch_Reason", ax=ax3)
+ax3.set_title("Productivity Loss by Platform and Watch Reason")
+ax3.set_ylabel("Productivity Loss Score")
+ax3.set_xlabel("Platform")
+ax3.tick_params(axis='x', rotation=45)
+st.pyplot(fig3)
