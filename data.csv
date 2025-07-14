@@ -1,0 +1,1001 @@
+Age,Gender,Location,Income  in ?,Debt,Profession,Platform,Total Time Spent (minute),Video Length,Importance Score,Time Spent On Video,Number of Videos Watched,Scroll Rate,Frequency,Productivity Loss,Satisfaction,Watch Reason,Self Control,Addiction Level,Current Activity
+19,Male,Pakistan,64900,1,Cashier,TikTok,274,3,3,29,36,1,Afternoon,5,5,Boredom,7,3,At work
+21,Other,India,81350,1,Labor/Worker,YouTube,56,29,6,19,31,1,Afternoon,6,4,Boredom,8,2,At work
+22,Male,Philippines,44995,0,driver,Facebook,173,11,4,11,34,1,Afternoon,6,4,Procrastination,8,2,At home
+30,Female,United States,41826,0,Labor/Worker,Instagram,140,23,2,12,22,1,Evening,5,5,Habit,7,3,At home
+33,Female,Pakistan,71649,1,driver,YouTube,99,23,9,24,13,1,Evening,7,3,Entertainment,9,1,At home
+34,Other,India,63472,1,Students,Instagram,81,9,7,5,33,1,Afternoon,5,5,Habit,7,3,At work
+35,Male,Barzil,81516,1,Labor/Worker,Instagram,64,16,7,12,36,1,Night,1,9,Boredom,3,7,At work
+38,Male,Japan,52441,1,Students,YouTube,88,23,5,29,34,1,Evening,8,2,Entertainment,10,0,At work
+45,Male,India,60510,1,driver,YouTube,43,22,4,9,32,1,Evening,5,5,Habit,7,3,At home
+46,Male,United States,66760,1,Waiting staff,Facebook,105,9,3,16,46,1,Afternoon,5,5,Boredom,7,3,At school
+49,Male,United States,64789,1,Students,YouTube,288,25,4,28,31,1,Night,1,9,Boredom,3,7,At home
+51,Male,United States,83878,1,driver,TikTok,168,25,7,15,28,1,Evening,6,4,Habit,8,2,At work
+57,Other,United States,22352,0,Students,YouTube,94,5,5,18,6,1,Night,1,9,Entertainment,3,7,At school
+58,Male,India,31240,0,Engineer,TikTok,268,6,1,16,38,1,Morning,8,2,Boredom,10,0,At school
+64,Female,Barzil,71813,1,Labor/Worker,TikTok,200,20,5,6,33,1,Evening,8,2,Habit,10,0,At school
+30,Other,India,61869,1,Labor/Worker,Instagram,177,22,7,25,19,2,Evening,6,4,Boredom,8,2,At school
+30,Other,United States,66840,1,driver,Instagram,106,28,4,18,46,2,Afternoon,4,6,Habit,6,4,At school
+45,Male,Pakistan,22257,0,Waiting staff,Facebook,262,23,1,27,31,2,Afternoon,8,2,Boredom,10,0,At school
+56,Male,Barzil,72781,1,Engineer,Instagram,16,14,8,15,27,2,Evening,7,3,Boredom,9,1,Commuting
+63,Female,Barzil,70139,1,Labor/Worker,YouTube,244,12,1,10,26,2,Evening,6,4,Boredom,8,2,At school
+64,Female,India,70961,1,Teacher,YouTube,265,8,4,15,24,2,Afternoon,3,7,Boredom,5,5,Commuting
+20,Male,Vietnam,58975,1,Students,Instagram,115,28,4,3,35,3,Evening,5,5,Boredom,7,3,At work
+31,Female,Germany,28770,0,Labor/Worker,Facebook,51,12,7,12,27,3,Evening,6,4,Boredom,8,2,At home
+36,Male,Barzil,53866,1,driver,TikTok,123,5,2,20,46,3,Night,3,7,Procrastination,5,5,At school
+37,Female,United States,38230,0,driver,Facebook,229,21,3,10,39,3,Night,3,7,Habit,5,5,At home
+41,Female,United States,60603,1,Students,Instagram,29,4,2,2,46,3,Evening,7,3,Boredom,9,1,At school
+42,Female,Japan,79659,1,Teacher,TikTok,126,4,4,10,18,3,Night,3,7,Boredom,5,5,At school
+48,Female,Japan,90188,1,Waiting staff,YouTube,12,3,7,9,18,3,Night,1,9,Boredom,3,7,At home
+56,Other,India,26852,0,Waiting staff,Facebook,185,22,9,8,21,3,Afternoon,5,5,Habit,7,3,At home
+57,Male,India,78557,1,Waiting staff,YouTube,268,28,6,26,10,3,Night,3,7,Entertainment,5,5,At home
+58,Female,Philippines,91678,1,Engineer,Instagram,75,13,9,29,11,3,Evening,6,4,Boredom,8,2,Commuting
+18,Male,United States,20276,0,Students,Instagram,38,26,6,27,46,4,Afternoon,4,6,Boredom,6,4,At work
+24,Male,United States,20138,0,Labor/Worker,Instagram,290,17,1,27,47,4,Afternoon,4,6,Boredom,6,4,At home
+25,Male,Pakistan,22096,0,Manager,TikTok,136,19,7,13,21,4,Morning,8,2,Boredom,10,0,At home
+25,Male,Germany,34357,0,Engineer,TikTok,171,8,5,18,20,4,Afternoon,5,5,Boredom,7,3,At work
+26,Male,Philippines,28016,0,Students,TikTok,278,21,7,14,32,4,Night,1,9,Boredom,3,7,At home
+29,Female,United States,83918,1,Labor/Worker,Facebook,35,3,3,15,10,4,Night,1,9,Entertainment,3,7,At school
+31,Male,Indonesia,43383,0,Cashier,TikTok,202,14,7,21,12,4,Afternoon,5,5,Boredom,7,3,At school
+31,Female,Germany,49118,0,Labor/Worker,Facebook,261,15,2,10,31,4,Night,3,7,Entertainment,5,5,At work
+32,Other,India,83370,1,Teacher,TikTok,93,1,5,28,27,4,Evening,6,4,Habit,8,2,At school
+32,Male,United States,91947,1,Students,Facebook,16,26,4,28,46,4,Afternoon,5,5,Boredom,7,3,At home
+33,Female,Japan,70100,1,Labor/Worker,TikTok,235,12,2,13,46,4,Evening,6,4,Entertainment,8,2,Commuting
+45,Male,Mexico,94085,1,Waiting staff,Instagram,223,14,4,20,29,4,Night,6,4,Habit,8,2,Commuting
+52,Male,Mexico,92055,1,Labor/Worker,Facebook,115,8,3,17,10,4,Night,3,7,Boredom,5,5,At school
+22,Other,Indonesia,68766,1,driver,YouTube,170,27,4,2,9,5,Evening,3,7,Boredom,5,5,At work
+26,Other,India,74312,1,Artist,Facebook,217,11,5,24,1,5,Evening,7,3,Boredom,9,1,At school
+34,Male,Barzil,32237,0,Artist,TikTok,194,1,4,10,29,5,Evening,3,7,Procrastination,5,5,At work
+38,Other,Indonesia,81709,1,Waiting staff,TikTok,108,10,7,29,30,5,Evening,6,4,Boredom,8,2,At home
+42,Male,United States,82261,1,Manager,YouTube,268,13,7,17,27,5,Afternoon,3,7,Habit,5,5,At school
+43,Female,Barzil,53870,1,Students,Instagram,150,23,2,11,48,5,Night,6,4,Boredom,8,2,At school
+43,Male,United States,59420,1,Engineer,YouTube,176,20,5,21,1,5,Evening,5,5,Habit,7,3,At school
+49,Male,Barzil,61855,1,Waiting staff,TikTok,142,7,9,10,23,5,Evening,6,4,Procrastination,8,2,At school
+50,Male,Barzil,51921,1,Students,YouTube,178,23,4,13,40,5,Morning,6,4,Procrastination,8,2,At home
+51,Male,United States,33947,0,Engineer,TikTok,85,11,8,1,42,5,Afternoon,5,5,Entertainment,7,3,At home
+53,Other,Japan,73161,1,Teacher,Facebook,181,22,1,11,20,5,Morning,7,3,Boredom,9,1,At school
+54,Male,Barzil,84386,1,driver,Facebook,196,2,7,19,14,5,Evening,5,5,Procrastination,7,3,At home
+19,Male,India,53840,1,driver,YouTube,167,4,3,19,40,6,Evening,6,4,Procrastination,8,2,At home
+20,Male,Vietnam,56609,1,Waiting staff,Facebook,233,4,9,19,4,6,Evening,6,4,Entertainment,8,2,At home
+25,Other,Indonesia,90393,1,Manager,Facebook,39,12,7,20,15,6,Evening,5,5,Habit,7,3,At home
+27,Male,India,97064,1,Teacher,Facebook,96,29,6,3,24,6,Evening,6,4,Boredom,8,2,At work
+27,Female,Philippines,42785,0,Labor/Worker,TikTok,132,6,9,18,17,6,Afternoon,6,4,Entertainment,8,2,At work
+29,Female,Pakistan,35282,0,driver,Instagram,60,23,1,8,15,6,Night,3,7,Habit,5,5,At school
+30,Male,Vietnam,35072,0,Students,Facebook,195,22,9,6,25,6,Night,1,9,Habit,3,7,At home
+31,Female,Japan,88847,1,Manager,Facebook,297,27,4,26,7,6,Afternoon,6,4,Boredom,8,2,At work
+35,Female,Pakistan,29885,0,Waiting staff,Facebook,106,9,9,22,12,6,Night,3,7,Habit,5,5,At work
+47,Male,United States,23828,0,Waiting staff,Facebook,44,3,7,6,2,6,Evening,6,4,Habit,8,2,At home
+51,Female,Vietnam,38322,0,Students,Facebook,212,13,9,5,37,6,Afternoon,5,5,Entertainment,7,3,At school
+56,Male,Philippines,91312,1,Students,Facebook,78,8,9,13,31,6,Afternoon,8,2,Habit,10,0,At home
+18,Other,Mexico,46819,0,Waiting staff,YouTube,193,21,2,2,15,7,Evening,6,4,Boredom,8,2,At school
+21,Female,Philippines,28787,0,Waiting staff,TikTok,120,21,5,17,27,7,Afternoon,5,5,Entertainment,7,3,At home
+29,Female,Germany,84200,1,driver,YouTube,58,19,6,28,28,7,Night,2,8,Entertainment,4,6,At home
+30,Male,India,57418,1,Waiting staff,Facebook,225,28,6,16,46,7,Evening,6,4,Habit,8,2,At work
+31,Male,Pakistan,39799,0,Waiting staff,YouTube,71,12,2,5,1,7,Evening,5,5,Procrastination,7,3,At home
+34,Female,India,31738,0,Students,YouTube,146,1,8,19,3,7,Evening,7,3,Boredom,9,1,At school
+37,Male,Philippines,67498,1,Cashier,Facebook,243,12,5,7,39,7,Morning,9,1,Habit,10,0,At work
+43,Female,Indonesia,91853,1,driver,TikTok,23,1,3,5,23,7,Morning,8,2,Habit,10,0,At school
+46,Other,Pakistan,69159,1,driver,TikTok,13,7,9,20,38,7,Night,3,7,Boredom,5,5,At school
+50,Male,Japan,73330,1,Manager,YouTube,200,27,6,14,4,7,Morning,8,2,Entertainment,10,0,At home
+54,Male,United States,34939,0,driver,Facebook,187,23,1,2,1,7,Evening,6,4,Habit,8,2,At home
+54,Other,India,71971,1,Cashier,TikTok,192,21,3,14,30,7,Evening,5,5,Entertainment,7,3,At home
+57,Male,Mexico,90028,1,Manager,Facebook,224,29,2,14,34,7,Evening,7,3,Boredom,9,1,At school
+58,Other,India,21307,0,Students,Instagram,21,13,5,11,39,7,Evening,5,5,Procrastination,7,3,At work
+59,Female,India,66101,1,Waiting staff,TikTok,22,16,6,12,26,7,Night,3,7,Entertainment,5,5,At home
+59,Male,Barzil,22224,0,Students,TikTok,254,22,9,28,15,7,Evening,3,7,Habit,5,5,At home
+64,Other,Mexico,67299,1,driver,TikTok,90,9,7,7,14,7,Evening,6,4,Entertainment,8,2,At home
+24,Male,India,56268,1,Artist,Instagram,38,19,3,29,48,8,Night,2,8,Habit,4,6,At school
+31,Female,Germany,49055,0,Waiting staff,YouTube,218,21,2,2,28,8,Night,3,7,Boredom,5,5,At home
+32,Male,Vietnam,28244,0,Manager,Facebook,10,6,3,14,2,8,Afternoon,8,2,Habit,10,0,At work
+34,Male,Vietnam,97454,1,Waiting staff,Facebook,225,15,5,7,8,8,Night,3,7,Entertainment,5,5,At school
+35,Female,Indonesia,22597,0,Labor/Worker,YouTube,212,12,3,25,10,8,Night,3,7,Entertainment,5,5,At work
+39,Male,Indonesia,28767,0,Waiting staff,TikTok,298,27,7,19,36,8,Night,3,7,Habit,5,5,At home
+41,Other,Japan,27531,0,Labor/Worker,Facebook,202,10,4,1,45,8,Evening,6,4,Entertainment,8,2,At work
+51,Female,Japan,54542,1,driver,YouTube,189,19,2,5,31,8,Evening,7,3,Entertainment,9,1,Commuting
+54,Female,India,21125,0,Artist,Instagram,49,16,7,3,20,8,Night,3,7,Habit,5,5,At school
+58,Male,India,58635,1,Students,YouTube,55,14,1,18,49,8,Night,1,9,Habit,3,7,At school
+60,Female,Philippines,74238,1,Labor/Worker,Instagram,214,23,8,5,16,8,Morning,3,7,Habit,5,5,At home
+61,Female,Barzil,84353,1,Engineer,YouTube,36,27,5,10,43,8,Evening,5,5,Boredom,7,3,At home
+62,Male,Japan,40808,0,Engineer,Instagram,236,15,4,14,11,8,Evening,9,1,Procrastination,10,0,Commuting
+64,Male,Vietnam,40538,0,Students,YouTube,12,21,4,14,7,8,Afternoon,4,6,Boredom,6,4,At work
+31,Female,India,76700,1,Waiting staff,Instagram,83,27,1,13,29,9,Night,3,7,Entertainment,5,5,Commuting
+40,Male,Japan,40131,0,Cashier,TikTok,38,15,3,10,8,9,Evening,6,4,Habit,8,2,At home
+40,Other,India,77505,1,Teacher,TikTok,237,27,6,4,18,9,Evening,6,4,Entertainment,8,2,At home
+46,Male,India,92124,1,Waiting staff,YouTube,173,26,7,1,45,9,Evening,7,3,Entertainment,9,1,At home
+49,Other,Mexico,68563,1,Engineer,Facebook,223,13,6,29,28,9,Evening,6,4,Boredom,8,2,At home
+52,Male,India,66733,1,Labor/Worker,TikTok,153,21,5,29,16,9,Evening,6,4,Habit,8,2,At school
+54,Other,Vietnam,91363,1,Students,YouTube,56,11,4,20,10,9,Morning,8,2,Entertainment,10,0,At school
+54,Male,India,59758,1,Students,YouTube,240,11,4,19,21,9,Evening,7,3,Boredom,9,1,At work
+54,Female,United States,70952,1,Waiting staff,Facebook,216,29,1,9,29,9,Afternoon,5,5,Habit,7,3,At work
+62,Female,United States,94965,1,driver,TikTok,238,14,1,23,21,9,Night,1,9,Habit,3,7,At work
+18,Female,India,98257,1,Students,TikTok,252,13,1,26,14,10,Afternoon,6,4,Boredom,8,2,At home
+18,Other,United States,86624,1,Waiting staff,YouTube,169,16,4,6,11,10,Evening,5,5,Boredom,7,3,At home
+19,Other,India,49320,0,Waiting staff,TikTok,281,12,3,15,6,10,Night,3,7,Entertainment,5,5,At work
+20,Female,India,50373,1,Waiting staff,Facebook,108,8,6,24,7,10,Afternoon,6,4,Boredom,8,2,Commuting
+24,Male,Indonesia,95939,1,Labor/Worker,YouTube,26,13,7,7,41,10,Afternoon,5,5,Habit,7,3,At home
+24,Male,United States,26416,0,driver,Instagram,283,26,3,27,32,10,Night,3,7,Habit,5,5,At home
+24,Male,India,27069,0,Students,Facebook,262,8,4,6,31,10,Night,1,9,Habit,3,7,At home
+41,Male,Japan,88670,1,Students,TikTok,84,16,4,4,49,10,Evening,7,3,Habit,9,1,Commuting
+49,Other,Vietnam,62752,1,Waiting staff,Facebook,96,25,6,20,7,10,Morning,8,2,Habit,10,0,At home
+50,Male,Philippines,66473,1,Teacher,Instagram,21,29,6,14,2,10,Night,8,2,Procrastination,10,0,Commuting
+50,Male,Barzil,21708,0,Artist,YouTube,142,15,6,11,28,10,Evening,5,5,Habit,7,3,At home
+51,Male,Pakistan,99285,1,Students,Facebook,71,16,4,19,23,10,Afternoon,6,4,Procrastination,8,2,At work
+53,Female,United States,56027,1,Students,YouTube,166,5,5,20,30,10,Night,2,8,Entertainment,4,6,At home
+25,Male,Pakistan,32991,0,Students,Instagram,271,15,5,22,9,11,Evening,5,5,Habit,7,3,At school
+33,Female,India,72893,1,driver,YouTube,45,17,8,7,23,11,Afternoon,6,4,Entertainment,8,2,Commuting
+37,Other,United States,89785,1,Artist,TikTok,168,12,4,14,9,11,Evening,6,4,Boredom,8,2,At work
+37,Male,Barzil,68781,1,Engineer,Instagram,233,24,6,20,35,11,Night,3,7,Entertainment,5,5,At home
+43,Other,Germany,74575,1,Students,Facebook,28,28,6,2,37,11,Night,3,7,Boredom,5,5,At school
+54,Other,India,58458,1,driver,Instagram,235,6,2,23,33,11,Night,8,2,Boredom,10,0,At work
+25,Male,Philippines,40074,0,Artist,Instagram,189,29,2,27,30,12,Afternoon,5,5,Procrastination,7,3,At home
+26,Other,Japan,24648,0,Students,YouTube,276,26,9,19,41,12,Morning,8,2,Boredom,10,0,At home
+37,Male,Germany,70124,1,Artist,Instagram,59,29,4,21,5,12,Afternoon,8,2,Habit,10,0,At school
+38,Female,United States,69847,1,Cashier,TikTok,217,15,7,25,32,12,Night,1,9,Habit,3,7,At home
+39,Female,India,52245,1,Students,TikTok,110,16,9,1,25,12,Evening,3,7,Boredom,5,5,Commuting
+40,Female,India,48064,0,Artist,YouTube,282,6,2,26,30,12,Morning,7,3,Boredom,9,1,At school
+50,Male,Barzil,66403,1,Students,Instagram,46,13,2,1,12,12,Evening,6,4,Boredom,8,2,Commuting
+52,Male,Indonesia,37709,0,Engineer,Instagram,114,1,9,20,21,12,Morning,8,2,Boredom,10,0,Commuting
+52,Male,Indonesia,35434,0,Waiting staff,Instagram,279,15,5,1,43,12,Night,2,8,Habit,4,6,At work
+60,Male,United States,37508,0,Students,Facebook,198,14,6,2,34,12,Evening,8,2,Procrastination,10,0,At school
+29,Male,Japan,46417,0,Students,TikTok,172,6,5,29,17,13,Evening,5,5,Entertainment,7,3,At work
+34,Female,Pakistan,89624,1,Engineer,YouTube,93,4,9,17,49,13,Afternoon,5,5,Habit,7,3,At work
+36,Female,Pakistan,44217,0,Labor/Worker,TikTok,125,28,5,3,22,13,Evening,6,4,Habit,8,2,At work
+38,Male,United States,35352,0,driver,Instagram,223,13,3,9,47,13,Evening,6,4,Habit,8,2,At home
+39,Other,Japan,77828,1,Students,Facebook,61,13,8,6,17,13,Night,3,7,Boredom,5,5,At work
+40,Male,India,52658,1,Students,YouTube,102,26,1,11,43,13,Evening,6,4,Entertainment,8,2,At home
+41,Male,Barzil,51852,1,Manager,Facebook,22,9,3,14,15,13,Night,3,7,Habit,5,5,At work
+42,Other,Vietnam,87169,1,Manager,YouTube,229,29,2,18,27,13,Evening,6,4,Habit,8,2,At work
+52,Male,Indonesia,68330,1,Labor/Worker,YouTube,213,28,4,20,39,13,Afternoon,5,5,Entertainment,7,3,At school
+64,Female,Vietnam,39675,0,Students,TikTok,284,6,9,27,17,13,Evening,6,4,Entertainment,8,2,At school
+18,Male,Pakistan,53154,1,Manager,Facebook,11,14,9,16,28,14,Afternoon,6,4,Entertainment,8,2,At school
+23,Male,Mexico,71374,1,Labor/Worker,Facebook,123,29,6,5,17,14,Afternoon,3,7,Habit,5,5,At home
+35,Male,India,22336,0,Waiting staff,Facebook,85,27,9,11,28,14,Afternoon,5,5,Boredom,7,3,At work
+36,Male,India,41281,0,Cashier,TikTok,158,29,9,18,10,14,Afternoon,8,2,Boredom,10,0,At work
+36,Female,India,27597,0,Cashier,TikTok,77,17,3,12,40,14,Afternoon,4,6,Boredom,6,4,At school
+48,Female,United States,34849,0,Engineer,Facebook,158,5,1,14,28,14,Night,3,7,Boredom,5,5,At home
+50,Male,Vietnam,79165,1,Cashier,Facebook,175,21,1,25,32,14,Night,3,7,Entertainment,5,5,At school
+53,Male,India,36977,0,Students,Instagram,77,12,5,8,13,14,Evening,7,3,Entertainment,9,1,At home
+53,Male,Vietnam,73410,1,Students,Instagram,18,9,2,20,35,14,Evening,5,5,Boredom,7,3,Commuting
+59,Male,Philippines,74306,1,Labor/Worker,Facebook,208,17,3,26,44,14,Night,3,7,Boredom,5,5,At home
+21,Female,Pakistan,52955,1,Students,YouTube,253,14,9,15,46,15,Night,8,2,Habit,10,0,At home
+25,Male,Indonesia,54518,1,Waiting staff,Facebook,112,16,2,19,37,15,Night,3,7,Habit,5,5,At school
+27,Male,United States,38199,0,Students,YouTube,115,24,8,5,49,15,Night,6,4,Entertainment,8,2,At school
+40,Female,Pakistan,27006,0,Waiting staff,Facebook,231,2,4,2,17,15,Night,8,2,Boredom,10,0,At home
+40,Female,Pakistan,32819,0,Engineer,Instagram,175,3,5,24,45,15,Night,3,7,Habit,5,5,At home
+43,Male,Vietnam,54521,1,Artist,Instagram,26,16,1,15,48,15,Night,3,7,Habit,5,5,At home
+47,Male,India,37622,0,Students,YouTube,183,27,6,28,21,15,Night,9,1,Habit,10,0,At school
+47,Other,India,98610,1,driver,Instagram,94,21,5,25,4,15,Evening,6,4,Habit,8,2,Commuting
+55,Male,United States,81202,1,Waiting staff,Instagram,30,16,7,19,41,15,Afternoon,8,2,Entertainment,10,0,At home
+59,Male,Philippines,27851,0,Students,YouTube,103,28,5,8,36,15,Night,3,7,Boredom,5,5,At school
+60,Other,Indonesia,67377,1,Artist,YouTube,297,27,7,8,19,15,Afternoon,6,4,Habit,8,2,At work
+21,Female,Mexico,91121,1,Engineer,TikTok,287,6,9,6,20,16,Afternoon,8,2,Entertainment,10,0,Commuting
+40,Male,Vietnam,55292,1,driver,TikTok,183,18,7,11,46,16,Morning,8,2,Habit,10,0,At home
+42,Male,Barzil,38693,0,driver,Instagram,139,25,2,11,44,16,Evening,5,5,Boredom,7,3,At home
+53,Male,Germany,91986,1,Students,TikTok,58,19,5,26,42,16,Evening,6,4,Habit,8,2,At school
+58,Male,India,61862,1,Artist,YouTube,260,14,9,27,21,16,Afternoon,4,6,Entertainment,6,4,At work
+59,Male,Germany,50651,1,Labor/Worker,TikTok,167,17,3,25,21,16,Night,3,7,Procrastination,5,5,At work
+21,Male,Japan,46390,0,Cashier,Instagram,83,8,5,17,27,17,Evening,6,4,Habit,8,2,At school
+21,Other,United States,97465,1,Waiting staff,Facebook,161,26,9,22,19,17,Afternoon,5,5,Procrastination,7,3,Commuting
+40,Other,Vietnam,91442,1,Teacher,Instagram,17,2,5,1,2,17,Evening,7,3,Procrastination,9,1,At home
+41,Other,Vietnam,75267,1,Labor/Worker,Instagram,163,20,7,1,1,17,Afternoon,5,5,Entertainment,7,3,Commuting
+43,Female,Vietnam,86262,1,Manager,Facebook,89,24,6,18,9,17,Morning,9,1,Boredom,10,0,At work
+47,Male,Barzil,90263,1,Labor/Worker,Facebook,174,14,9,3,41,17,Night,3,7,Procrastination,5,5,At work
+53,Male,India,41083,0,Waiting staff,Facebook,113,22,4,24,9,17,Morning,7,3,Boredom,9,1,At work
+62,Male,United States,42207,0,Students,YouTube,48,1,1,16,48,17,Evening,7,3,Boredom,9,1,At school
+64,Male,Philippines,80011,1,Waiting staff,Facebook,143,17,9,2,15,17,Night,1,9,Entertainment,3,7,At school
+19,Male,India,28438,0,Waiting staff,YouTube,44,29,8,7,40,18,Night,3,7,Habit,5,5,At school
+27,Female,India,23744,0,driver,TikTok,190,21,4,5,44,18,Morning,9,1,Habit,10,0,At school
+30,Female,India,24135,0,driver,TikTok,241,29,3,22,27,18,Evening,6,4,Procrastination,8,2,At school
+31,Female,Pakistan,79063,1,Waiting staff,Instagram,71,26,1,20,42,18,Evening,6,4,Procrastination,8,2,At home
+38,Female,United States,88899,1,Students,Instagram,73,17,6,27,6,18,Afternoon,3,7,Boredom,5,5,At home
+42,Other,Philippines,25347,0,Labor/Worker,YouTube,72,28,2,4,42,18,Evening,6,4,Boredom,8,2,Commuting
+45,Other,United States,37569,0,driver,Facebook,34,27,9,6,5,18,Evening,6,4,Boredom,8,2,At home
+47,Male,Vietnam,74245,1,Students,Instagram,125,21,8,19,3,18,Morning,8,2,Habit,10,0,At school
+54,Male,India,89569,1,Manager,TikTok,116,26,8,9,28,18,Morning,9,1,Boredom,10,0,Commuting
+62,Female,Germany,65671,1,Students,TikTok,95,6,9,1,24,18,Night,9,1,Entertainment,10,0,At home
+63,Male,India,97175,1,Labor/Worker,Instagram,153,3,1,15,26,18,Evening,6,4,Entertainment,8,2,At home
+64,Other,Japan,78394,1,Students,Facebook,229,12,3,21,45,18,Evening,8,2,Entertainment,10,0,At school
+64,Male,Japan,27927,0,Manager,YouTube,167,14,5,16,36,18,Night,3,7,Boredom,5,5,At home
+18,Female,India,45599,0,Waiting staff,YouTube,129,11,4,15,12,19,Night,6,4,Procrastination,8,2,At home
+21,Female,Vietnam,42440,0,Waiting staff,Facebook,223,25,8,16,20,19,Afternoon,8,2,Procrastination,10,0,At home
+23,Male,Japan,60846,1,Students,Facebook,220,4,6,7,1,19,Evening,6,4,Entertainment,8,2,At school
+30,Female,Indonesia,54624,1,Engineer,YouTube,149,23,5,12,15,19,Morning,9,1,Entertainment,10,0,At work
+30,Female,United States,35848,0,driver,Instagram,155,28,2,17,4,19,Morning,7,3,Entertainment,9,1,At work
+40,Female,Mexico,43782,0,Artist,TikTok,40,1,1,2,26,19,Afternoon,6,4,Habit,8,2,At work
+40,Male,United States,49309,0,Waiting staff,Instagram,34,4,8,20,44,19,Night,3,7,Entertainment,5,5,At home
+41,Female,India,66607,1,driver,Instagram,145,10,4,21,19,19,Night,3,7,Boredom,5,5,At work
+57,Male,Barzil,81240,1,Artist,TikTok,99,24,6,5,46,19,Night,8,2,Boredom,10,0,At work
+58,Other,Pakistan,43478,0,Labor/Worker,Facebook,288,12,8,15,23,19,Evening,3,7,Habit,5,5,At work
+59,Male,Japan,41384,0,Engineer,YouTube,228,24,3,27,30,19,Afternoon,5,5,Entertainment,7,3,At work
+63,Male,India,57383,1,Engineer,TikTok,44,13,8,20,29,19,Afternoon,6,4,Entertainment,8,2,At work
+20,Other,Germany,52793,1,Artist,YouTube,109,8,5,17,42,20,Afternoon,8,2,Boredom,10,0,Commuting
+20,Other,United States,47747,0,Waiting staff,TikTok,30,11,3,23,21,20,Afternoon,3,7,Procrastination,5,5,At school
+22,Male,Mexico,77326,1,Artist,YouTube,229,24,6,15,48,20,Evening,6,4,Entertainment,8,2,At home
+23,Male,Vietnam,66037,1,Engineer,Facebook,54,12,7,24,1,20,Night,3,7,Habit,5,5,At school
+42,Female,United States,35223,0,Labor/Worker,TikTok,20,14,7,9,27,20,Afternoon,5,5,Entertainment,7,3,Commuting
+64,Female,Germany,96396,1,Waiting staff,YouTube,187,26,2,22,21,20,Morning,8,2,Boredom,10,0,At work
+64,Female,India,44087,0,Students,TikTok,297,8,3,6,1,20,Evening,9,1,Entertainment,10,0,At home
+28,Female,India,51897,1,driver,Instagram,98,21,7,22,12,21,Afternoon,3,7,Boredom,5,5,Commuting
+29,Male,United States,28210,0,driver,YouTube,88,10,9,15,3,21,Evening,7,3,Entertainment,9,1,At work
+30,Female,Barzil,22100,0,Labor/Worker,Facebook,264,12,7,24,39,21,Morning,3,7,Habit,5,5,At school
+32,Male,Philippines,67591,1,Waiting staff,Facebook,101,17,9,8,13,21,Afternoon,6,4,Boredom,8,2,At home
+35,Other,United States,95769,1,Manager,Instagram,111,18,3,26,47,21,Afternoon,6,4,Habit,8,2,Commuting
+42,Male,United States,31116,0,Waiting staff,YouTube,117,14,2,17,44,21,Morning,8,2,Boredom,10,0,At home
+47,Female,United States,64014,1,Labor/Worker,TikTok,54,8,7,18,46,21,Evening,7,3,Habit,9,1,Commuting
+47,Male,United States,66737,1,Students,YouTube,225,28,2,29,20,21,Afternoon,6,4,Habit,8,2,At work
+47,Other,United States,71578,1,Artist,TikTok,60,27,5,20,13,21,Afternoon,5,5,Habit,7,3,At home
+52,Male,Philippines,32924,0,Labor/Worker,Facebook,188,18,4,7,27,21,Evening,6,4,Entertainment,8,2,At home
+54,Female,Japan,95969,1,Engineer,TikTok,204,18,2,11,40,21,Night,8,2,Boredom,10,0,At work
+56,Female,India,86677,1,Labor/Worker,Instagram,219,28,7,29,22,21,Afternoon,6,4,Habit,8,2,At home
+60,Female,India,97240,1,Labor/Worker,Facebook,76,8,1,28,11,21,Afternoon,3,7,Habit,5,5,At home
+60,Other,India,98928,1,Labor/Worker,TikTok,238,29,9,16,15,21,Night,2,8,Procrastination,4,6,At work
+64,Other,Germany,47103,0,Students,Instagram,142,9,7,27,23,21,Night,1,9,Entertainment,3,7,At home
+18,Female,Barzil,63949,1,Waiting staff,Instagram,107,12,4,3,20,22,Evening,5,5,Entertainment,7,3,At work
+25,Male,Indonesia,95868,1,Waiting staff,TikTok,213,14,1,3,45,22,Night,3,7,Habit,5,5,At home
+34,Female,United States,76378,1,Labor/Worker,Facebook,57,11,3,20,31,22,Morning,8,2,Entertainment,10,0,Commuting
+38,Male,Germany,29833,0,Students,YouTube,51,12,5,28,1,22,Afternoon,5,5,Boredom,7,3,Commuting
+40,Male,Philippines,88703,1,Labor/Worker,TikTok,263,21,7,8,26,22,Night,3,7,Entertainment,5,5,At work
+43,Male,India,58392,1,Teacher,TikTok,109,3,6,14,20,22,Evening,7,3,Entertainment,9,1,At school
+47,Male,Japan,34743,0,Students,Facebook,270,10,7,22,34,22,Evening,8,2,Boredom,10,0,At work
+48,Male,Vietnam,28068,0,Labor/Worker,Instagram,175,16,3,10,45,22,Evening,3,7,Habit,5,5,At home
+52,Male,Indonesia,66619,1,Artist,Instagram,110,6,8,25,41,22,Morning,9,1,Entertainment,10,0,At work
+55,Female,Pakistan,95948,1,Teacher,YouTube,267,9,4,13,27,22,Night,3,7,Entertainment,5,5,At work
+61,Female,United States,69437,1,Waiting staff,TikTok,270,22,6,12,14,22,Evening,6,4,Entertainment,8,2,At school
+62,Female,India,42313,0,driver,TikTok,100,10,3,6,24,22,Evening,5,5,Boredom,7,3,At school
+25,Male,Barzil,30800,0,Students,Facebook,215,24,2,28,23,23,Night,3,7,Boredom,5,5,At school
+28,Male,India,85633,1,Engineer,Facebook,210,14,7,5,34,23,Night,3,7,Entertainment,5,5,At school
+34,Male,Vietnam,57713,1,Manager,YouTube,78,19,2,29,38,23,Evening,3,7,Entertainment,5,5,At work
+40,Other,Philippines,90448,1,Engineer,TikTok,258,28,7,21,20,23,Evening,6,4,Habit,8,2,At home
+41,Female,India,52762,1,Cashier,Facebook,22,21,8,13,42,23,Morning,8,2,Habit,10,0,Commuting
+46,Male,Indonesia,70098,1,driver,TikTok,190,21,2,3,45,23,Afternoon,4,6,Entertainment,6,4,At home
+51,Female,Germany,66154,1,Waiting staff,TikTok,209,6,4,7,39,23,Evening,8,2,Habit,10,0,At home
+57,Male,Indonesia,88920,1,Waiting staff,Facebook,27,24,6,8,15,23,Evening,6,4,Entertainment,8,2,Commuting
+18,Male,India,67945,1,Engineer,Facebook,81,14,2,19,16,24,Night,3,7,Entertainment,5,5,At work
+28,Female,Indonesia,66169,1,Artist,YouTube,15,6,1,26,44,24,Evening,6,4,Entertainment,8,2,Commuting
+31,Male,Japan,42173,0,Students,Facebook,36,21,6,25,3,24,Evening,6,4,Habit,8,2,At work
+31,Male,Japan,28605,0,Labor/Worker,TikTok,207,8,5,20,39,24,Morning,6,4,Entertainment,8,2,At work
+33,Female,Philippines,79518,1,Labor/Worker,Facebook,213,13,6,9,37,24,Morning,9,1,Entertainment,10,0,At home
+33,Male,Pakistan,53365,1,Labor/Worker,Facebook,292,3,4,4,18,24,Afternoon,5,5,Entertainment,7,3,At school
+34,Male,India,97872,1,Students,TikTok,83,15,3,13,27,24,Afternoon,6,4,Boredom,8,2,At work
+36,Male,Pakistan,78585,1,Students,Instagram,269,6,4,10,44,24,Evening,3,7,Habit,5,5,At home
+49,Male,India,41800,0,Waiting staff,TikTok,97,22,8,8,47,24,Afternoon,5,5,Entertainment,7,3,At work
+50,Other,India,75426,1,Manager,YouTube,126,17,1,14,18,24,Afternoon,5,5,Habit,7,3,At work
+63,Male,Vietnam,35372,0,Students,YouTube,102,8,7,25,34,24,Afternoon,8,2,Habit,10,0,At work
+23,Male,Mexico,63791,1,driver,Instagram,62,2,4,10,45,25,Evening,8,2,Procrastination,10,0,Commuting
+26,Male,United States,79634,1,Students,TikTok,244,24,1,20,26,25,Night,3,7,Habit,5,5,At school
+29,Female,Barzil,99190,1,Waiting staff,Instagram,295,25,8,7,32,25,Evening,7,3,Habit,9,1,At home
+30,Male,Vietnam,68688,1,Labor/Worker,TikTok,25,7,6,12,37,25,Afternoon,6,4,Entertainment,8,2,At school
+31,Male,United States,86707,1,Waiting staff,Facebook,205,26,1,15,26,25,Afternoon,5,5,Habit,7,3,At home
+34,Female,Mexico,68456,1,Students,Instagram,61,15,4,28,28,25,Afternoon,4,6,Procrastination,6,4,At home
+36,Male,Pakistan,29528,0,Waiting staff,Facebook,47,2,3,5,14,25,Evening,6,4,Entertainment,8,2,At work
+49,Male,Vietnam,41253,0,Waiting staff,TikTok,187,12,8,27,28,25,Night,3,7,Procrastination,5,5,At work
+55,Other,Mexico,68454,1,driver,TikTok,197,21,1,17,31,25,Afternoon,5,5,Boredom,7,3,At school
+61,Male,Japan,22591,0,Waiting staff,TikTok,225,24,9,24,7,25,Evening,6,4,Habit,8,2,At home
+21,Male,India,50930,1,Students,Instagram,75,18,1,27,23,26,Night,3,7,Boredom,5,5,At school
+37,Male,United States,70026,1,Students,YouTube,255,11,8,4,9,26,Afternoon,5,5,Procrastination,7,3,At home
+46,Male,Barzil,26816,0,Students,Instagram,132,14,2,6,49,26,Night,3,7,Procrastination,5,5,At school
+53,Female,Vietnam,71707,1,Manager,Instagram,147,15,5,12,49,26,Evening,6,4,Procrastination,8,2,At school
+55,Female,Mexico,61160,1,Manager,Facebook,241,2,2,11,1,26,Afternoon,6,4,Habit,8,2,At school
+60,Male,Mexico,60583,1,Cashier,Facebook,91,2,9,22,41,26,Night,3,7,Habit,5,5,At work
+61,Male,Vietnam,62604,1,Students,YouTube,159,8,1,13,24,26,Morning,8,2,Entertainment,10,0,At home
+35,Male,India,27190,0,Students,TikTok,264,24,4,19,48,27,Evening,3,7,Habit,5,5,At work
+42,Female,India,47516,0,Labor/Worker,YouTube,234,25,1,7,18,27,Afternoon,5,5,Habit,7,3,Commuting
+42,Female,Vietnam,31120,0,Waiting staff,Facebook,41,2,4,25,7,27,Night,3,7,Habit,5,5,At work
+43,Male,Japan,92692,1,Labor/Worker,TikTok,294,6,2,1,31,27,Evening,6,4,Entertainment,8,2,At work
+46,Female,United States,92237,1,Teacher,Instagram,106,23,9,21,16,27,Evening,6,4,Habit,8,2,At home
+54,Male,India,49033,0,driver,Facebook,96,26,4,23,1,27,Evening,6,4,Boredom,8,2,At work
+57,Female,Germany,27368,0,Labor/Worker,Instagram,93,24,5,10,19,27,Afternoon,5,5,Habit,7,3,At home
+19,Female,India,94567,1,Waiting staff,TikTok,232,16,1,10,22,28,Afternoon,5,5,Habit,7,3,At work
+36,Male,Germany,99239,1,Students,Instagram,76,10,6,15,37,28,Evening,7,3,Procrastination,9,1,At work
+36,Male,Pakistan,75568,1,Waiting staff,Facebook,197,8,1,14,44,28,Evening,5,5,Habit,7,3,At school
+46,Male,India,82493,1,Labor/Worker,TikTok,179,19,2,16,12,28,Night,2,8,Entertainment,4,6,At work
+51,Male,Philippines,74131,1,Waiting staff,TikTok,196,9,3,25,9,28,Afternoon,9,1,Boredom,10,0,At home
+62,Male,Mexico,48365,0,Students,Facebook,239,25,8,19,39,28,Night,3,7,Habit,5,5,At work
+28,Male,Indonesia,76614,1,Manager,Instagram,14,8,4,2,19,29,Afternoon,5,5,Boredom,7,3,At home
+34,Female,Japan,96943,1,Engineer,TikTok,209,1,9,27,23,29,Night,3,7,Habit,5,5,At work
+36,Male,Barzil,39715,0,Engineer,Instagram,191,27,3,28,43,29,Night,3,7,Entertainment,5,5,At home
+50,Female,Japan,75915,1,Students,TikTok,252,16,8,2,31,29,Evening,6,4,Habit,8,2,At home
+50,Other,India,22384,0,Cashier,YouTube,235,7,6,26,42,29,Evening,5,5,Entertainment,7,3,At home
+55,Male,India,30449,0,Labor/Worker,YouTube,188,7,6,19,28,29,Evening,6,4,Boredom,8,2,Commuting
+59,Male,Philippines,21932,0,Waiting staff,Instagram,109,16,1,3,26,29,Night,1,9,Boredom,3,7,At work
+21,Female,Pakistan,61800,1,Waiting staff,Instagram,267,27,8,28,46,30,Night,3,7,Entertainment,5,5,At school
+37,Female,United States,49139,0,Cashier,Instagram,268,7,8,16,30,30,Night,3,7,Habit,5,5,At work
+41,Female,Indonesia,96917,1,Engineer,TikTok,82,3,3,10,3,30,Night,2,8,Entertainment,4,6,At home
+42,Female,India,56188,1,Artist,YouTube,148,14,4,26,40,30,Morning,7,3,Boredom,9,1,At school
+46,Male,United States,76071,1,Students,Facebook,270,29,5,27,30,30,Evening,3,7,Boredom,5,5,At home
+47,Male,Philippines,25075,0,Engineer,Instagram,274,20,6,8,15,30,Night,3,7,Procrastination,5,5,At home
+51,Female,Vietnam,32449,0,Artist,Facebook,276,28,8,23,10,30,Morning,3,7,Entertainment,5,5,Commuting
+52,Female,Japan,89286,1,Labor/Worker,YouTube,44,7,4,27,49,30,Night,3,7,Habit,5,5,At home
+56,Other,United States,54324,1,Students,Instagram,110,7,9,7,13,30,Night,6,4,Boredom,8,2,At school
+56,Male,India,55428,1,Labor/Worker,TikTok,81,21,6,18,3,30,Afternoon,4,6,Entertainment,6,4,At school
+60,Other,Vietnam,69879,1,Teacher,TikTok,102,13,6,22,31,30,Night,3,7,Boredom,5,5,At school
+23,Other,Pakistan,29587,0,Manager,YouTube,84,21,3,15,43,31,Night,3,7,Procrastination,5,5,Commuting
+25,Female,United States,38951,0,Labor/Worker,Facebook,35,8,8,3,19,31,Evening,5,5,Boredom,7,3,At home
+29,Other,Mexico,91854,1,Waiting staff,Facebook,66,14,6,18,33,31,Afternoon,8,2,Procrastination,10,0,Commuting
+31,Male,Indonesia,58342,1,Waiting staff,YouTube,20,29,7,7,18,31,Evening,6,4,Entertainment,8,2,At home
+50,Male,Germany,82424,1,Waiting staff,TikTok,162,7,3,29,15,31,Evening,6,4,Boredom,8,2,At home
+53,Male,Pakistan,45879,0,Students,Instagram,220,26,5,21,29,31,Afternoon,4,6,Boredom,6,4,At home
+56,Male,Germany,96637,1,Labor/Worker,YouTube,88,9,7,28,16,31,Afternoon,5,5,Procrastination,7,3,At work
+64,Male,United States,70500,1,Cashier,TikTok,40,5,2,22,19,31,Evening,6,4,Procrastination,8,2,At home
+18,Male,India,65232,1,driver,TikTok,36,10,4,22,6,32,Night,3,7,Boredom,5,5,At work
+25,Male,Japan,63355,1,Manager,Instagram,230,23,7,7,18,32,Night,3,7,Procrastination,5,5,At work
+26,Male,United States,98021,1,Students,YouTube,176,14,4,9,29,32,Evening,6,4,Boredom,8,2,At home
+32,Male,United States,26588,0,Labor/Worker,YouTube,297,25,4,28,47,32,Night,3,7,Habit,5,5,At home
+41,Male,Vietnam,46654,0,Waiting staff,Instagram,16,13,2,13,1,32,Morning,8,2,Boredom,10,0,At home
+42,Male,Barzil,69678,1,Students,YouTube,82,17,3,22,26,32,Evening,6,4,Habit,8,2,At home
+49,Female,Germany,29752,0,Students,Instagram,20,29,6,7,20,32,Evening,6,4,Habit,8,2,At home
+52,Male,Vietnam,37297,0,Cashier,Instagram,245,12,9,17,38,32,Evening,7,3,Habit,9,1,At work
+55,Other,United States,46475,0,Students,Instagram,235,7,1,18,9,32,Evening,6,4,Habit,8,2,At school
+57,Female,Germany,70601,1,driver,YouTube,205,27,4,17,8,32,Afternoon,5,5,Entertainment,7,3,At home
+64,Male,India,25842,0,Manager,Facebook,298,27,8,21,11,32,Morning,3,7,Habit,5,5,At home
+18,Female,Barzil,26823,0,driver,Instagram,131,21,7,9,3,33,Afternoon,5,5,Procrastination,7,3,At home
+20,Male,Indonesia,81035,1,Waiting staff,TikTok,185,19,6,21,39,33,Evening,7,3,Boredom,9,1,At work
+22,Female,Barzil,38489,0,Manager,YouTube,26,7,3,7,47,33,Evening,6,4,Entertainment,8,2,At home
+24,Other,Pakistan,70669,1,Students,YouTube,27,12,9,22,25,33,Morning,8,2,Habit,10,0,At home
+27,Female,India,56674,1,driver,Facebook,103,14,9,25,25,33,Night,1,9,Habit,3,7,At school
+34,Male,United States,74189,1,Labor/Worker,YouTube,258,19,5,25,47,33,Afternoon,8,2,Entertainment,10,0,At home
+39,Female,India,99151,1,Teacher,Instagram,258,15,6,29,1,33,Morning,8,2,Entertainment,10,0,At school
+43,Other,Pakistan,36211,0,Students,Facebook,247,7,2,17,48,33,Evening,8,2,Habit,10,0,At home
+44,Male,Mexico,91368,1,Students,Facebook,86,14,3,2,14,33,Morning,8,2,Entertainment,10,0,At school
+44,Male,Barzil,28556,0,driver,Facebook,55,4,5,10,39,33,Afternoon,4,6,Habit,6,4,At work
+45,Female,India,62359,1,Labor/Worker,Instagram,295,20,1,4,34,33,Night,1,9,Habit,3,7,At home
+48,Male,Philippines,57346,1,Engineer,YouTube,172,15,2,16,49,33,Evening,6,4,Boredom,8,2,Commuting
+64,Female,Pakistan,94707,1,Labor/Worker,Instagram,155,12,4,2,36,33,Evening,8,2,Boredom,10,0,At work
+18,Male,Japan,44306,0,Waiting staff,Instagram,30,2,8,22,32,34,Evening,7,3,Habit,9,1,At home
+20,Other,United States,90969,1,Cashier,YouTube,287,21,2,29,28,34,Evening,6,4,Entertainment,8,2,At school
+21,Male,Philippines,50116,1,Labor/Worker,TikTok,116,8,4,12,18,34,Afternoon,8,2,Boredom,10,0,At work
+21,Other,Indonesia,40132,0,Artist,YouTube,294,4,5,8,32,34,Night,8,2,Habit,10,0,At work
+26,Female,India,59901,1,driver,Instagram,180,1,4,16,47,34,Morning,8,2,Entertainment,10,0,Commuting
+28,Male,Indonesia,99303,1,Students,YouTube,24,25,9,26,28,34,Evening,6,4,Habit,8,2,At school
+44,Male,India,33565,0,Students,Facebook,171,19,9,22,22,34,Afternoon,5,5,Procrastination,7,3,At school
+46,Female,India,70583,1,Waiting staff,Facebook,146,2,7,6,45,34,Afternoon,6,4,Habit,8,2,At school
+52,Other,Pakistan,84046,1,Waiting staff,TikTok,234,9,7,17,15,34,Afternoon,5,5,Habit,7,3,At school
+18,Male,United States,81388,1,Students,YouTube,85,8,5,7,45,35,Evening,3,7,Procrastination,5,5,At home
+22,Female,United States,84089,1,Labor/Worker,Instagram,10,13,4,19,3,35,Afternoon,6,4,Procrastination,8,2,At home
+36,Female,Germany,33230,0,Waiting staff,Instagram,61,12,4,1,49,35,Afternoon,5,5,Procrastination,7,3,Commuting
+41,Other,Philippines,25105,0,Labor/Worker,TikTok,129,27,9,26,48,35,Evening,6,4,Habit,8,2,At home
+45,Female,Vietnam,40095,0,Waiting staff,TikTok,268,27,3,16,32,35,Evening,6,4,Habit,8,2,Commuting
+48,Female,United States,49336,0,Manager,YouTube,253,26,1,24,43,35,Afternoon,6,4,Habit,8,2,Commuting
+54,Male,United States,74336,1,Students,Instagram,112,10,9,13,19,35,Night,8,2,Habit,10,0,At work
+56,Male,India,25410,0,Waiting staff,Instagram,221,26,1,20,9,35,Morning,8,2,Boredom,10,0,At school
+61,Female,United States,75860,1,Students,YouTube,130,24,9,3,21,35,Morning,3,7,Habit,5,5,At home
+20,Male,Philippines,89561,1,Manager,TikTok,288,23,7,16,15,36,Evening,8,2,Boredom,10,0,At school
+22,Female,India,39086,0,Labor/Worker,Instagram,109,2,8,4,9,36,Evening,7,3,Boredom,9,1,At home
+32,Male,Japan,73554,1,Students,Facebook,190,19,2,11,44,36,Afternoon,3,7,Procrastination,5,5,At work
+38,Male,Indonesia,23760,0,Students,Facebook,92,5,8,2,37,36,Night,2,8,Entertainment,4,6,At school
+45,Female,Indonesia,26142,0,Cashier,Instagram,222,5,8,24,31,36,Evening,5,5,Boredom,7,3,At home
+52,Other,Mexico,97362,1,Labor/Worker,YouTube,240,22,6,5,49,36,Evening,5,5,Habit,7,3,At work
+57,Female,United States,30207,0,Waiting staff,Facebook,240,24,2,10,15,36,Evening,8,2,Boredom,10,0,At home
+59,Male,United States,29557,0,driver,Instagram,193,21,9,23,40,36,Morning,8,2,Habit,10,0,At school
+19,Female,Barzil,36288,0,Students,TikTok,163,3,9,11,31,37,Night,3,7,Habit,5,5,Commuting
+21,Male,United States,50654,1,Waiting staff,YouTube,216,24,3,2,19,37,Evening,5,5,Procrastination,7,3,At work
+23,Male,Barzil,75778,1,Artist,TikTok,224,28,9,6,31,37,Evening,5,5,Entertainment,7,3,At home
+43,Female,India,81215,1,Labor/Worker,YouTube,250,4,7,26,19,37,Evening,6,4,Procrastination,8,2,At school
+45,Female,Indonesia,78067,1,Waiting staff,Facebook,96,8,2,4,41,37,Afternoon,5,5,Procrastination,7,3,At work
+55,Female,Indonesia,62261,1,Waiting staff,YouTube,195,1,5,16,16,37,Night,1,9,Entertainment,3,7,At work
+61,Other,Mexico,93997,1,Students,TikTok,220,27,2,9,21,37,Night,3,7,Procrastination,5,5,At home
+25,Female,Germany,75220,1,Students,Instagram,60,26,1,19,36,38,Evening,5,5,Boredom,7,3,At home
+29,Male,Philippines,46423,0,driver,Facebook,158,11,6,21,17,38,Evening,9,1,Boredom,10,0,At school
+31,Male,Indonesia,44972,0,Labor/Worker,Instagram,89,3,8,3,42,38,Afternoon,9,1,Boredom,10,0,At home
+33,Male,United States,42052,0,Cashier,YouTube,40,5,1,14,8,38,Evening,5,5,Habit,7,3,At home
+38,Male,Vietnam,45279,0,driver,Instagram,89,9,5,27,16,38,Night,3,7,Entertainment,5,5,At home
+38,Female,Mexico,36859,0,Waiting staff,TikTok,251,3,6,19,47,38,Night,1,9,Habit,3,7,At work
+42,Female,India,94603,1,Labor/Worker,TikTok,181,7,9,14,32,38,Evening,6,4,Boredom,8,2,At work
+50,Other,India,44000,0,Engineer,YouTube,11,19,1,11,17,38,Night,3,7,Procrastination,5,5,At work
+52,Male,India,74869,1,Students,YouTube,164,9,3,2,12,38,Evening,6,4,Habit,8,2,At school
+62,Male,Philippines,95749,1,Artist,YouTube,152,17,9,20,10,38,Night,2,8,Procrastination,4,6,At school
+62,Male,Vietnam,93851,1,Students,TikTok,139,27,4,8,34,38,Night,1,9,Habit,3,7,At work
+19,Male,Japan,26710,0,Cashier,YouTube,220,9,9,9,7,39,Evening,6,4,Boredom,8,2,Commuting
+22,Female,Pakistan,64760,1,Artist,Instagram,286,24,7,5,18,39,Night,3,7,Entertainment,5,5,At school
+26,Male,Pakistan,27896,0,Waiting staff,Instagram,285,15,4,20,24,39,Evening,6,4,Boredom,8,2,At work
+37,Male,India,90194,1,Waiting staff,YouTube,252,2,2,17,11,39,Night,2,8,Procrastination,4,6,At work
+41,Male,Philippines,46649,0,Labor/Worker,Facebook,258,22,5,26,3,39,Evening,6,4,Entertainment,8,2,At work
+42,Female,Pakistan,48172,0,Waiting staff,Instagram,40,15,1,14,39,39,Evening,9,1,Boredom,10,0,At home
+43,Male,Japan,60785,1,Students,TikTok,28,28,9,25,11,39,Night,3,7,Entertainment,5,5,At work
+44,Male,Pakistan,68200,1,driver,TikTok,19,20,8,7,8,39,Afternoon,5,5,Entertainment,7,3,At school
+45,Male,Pakistan,25482,0,Labor/Worker,TikTok,68,28,2,27,4,39,Night,3,7,Boredom,5,5,At home
+46,Male,Barzil,68933,1,Labor/Worker,YouTube,239,12,1,21,35,39,Evening,5,5,Habit,7,3,At school
+48,Male,India,53487,1,Teacher,Instagram,148,8,3,15,8,39,Evening,3,7,Habit,5,5,At work
+51,Male,Germany,48220,0,Teacher,YouTube,257,22,8,23,2,39,Afternoon,9,1,Procrastination,10,0,At school
+19,Female,Indonesia,87155,1,Students,Instagram,242,26,4,2,48,40,Night,3,7,Boredom,5,5,At work
+32,Male,India,98405,1,Waiting staff,YouTube,175,27,1,19,4,40,Evening,5,5,Habit,7,3,At work
+32,Male,Barzil,20193,0,Manager,Facebook,67,15,2,16,37,40,Night,3,7,Habit,5,5,At home
+39,Other,United States,29346,0,Manager,Instagram,100,16,7,14,2,40,Evening,6,4,Habit,8,2,At home
+46,Other,India,38745,0,Cashier,YouTube,277,5,5,24,9,40,Evening,6,4,Boredom,8,2,Commuting
+50,Other,Indonesia,83095,1,Waiting staff,TikTok,175,20,8,29,20,40,Evening,6,4,Boredom,8,2,At school
+51,Female,Vietnam,69334,1,Cashier,Facebook,84,15,6,5,25,40,Night,2,8,Entertainment,4,6,At work
+56,Female,United States,46762,0,Artist,TikTok,199,8,9,4,29,40,Morning,7,3,Entertainment,9,1,At home
+62,Male,Philippines,39446,0,Students,TikTok,220,4,1,15,20,40,Evening,6,4,Entertainment,8,2,Commuting
+64,Male,United States,24493,0,Students,YouTube,227,5,7,2,22,40,Night,3,7,Entertainment,5,5,At school
+22,Male,Vietnam,96118,1,Labor/Worker,YouTube,287,24,9,6,9,41,Afternoon,4,6,Entertainment,6,4,At work
+33,Female,India,78954,1,Teacher,YouTube,81,4,8,11,49,41,Night,1,9,Boredom,3,7,Commuting
+39,Female,India,50933,1,driver,TikTok,194,23,9,26,47,41,Evening,6,4,Entertainment,8,2,At school
+44,Female,India,45235,0,Students,Facebook,34,16,4,12,17,41,Afternoon,6,4,Boredom,8,2,At home
+47,Female,Pakistan,65968,1,Students,Facebook,82,8,3,19,2,41,Afternoon,8,2,Entertainment,10,0,At school
+62,Male,India,97403,1,Students,Instagram,296,4,1,16,45,41,Evening,8,2,Habit,10,0,At home
+32,Female,Japan,25355,0,Artist,Instagram,93,8,1,4,3,42,Evening,3,7,Entertainment,5,5,At home
+41,Female,Barzil,56636,1,Students,Instagram,294,20,1,2,23,42,Evening,7,3,Entertainment,9,1,Commuting
+49,Male,United States,69416,1,Waiting staff,YouTube,40,17,9,18,40,42,Morning,8,2,Procrastination,10,0,At home
+54,Male,India,40093,0,driver,TikTok,203,14,3,24,34,42,Night,9,1,Habit,10,0,At home
+58,Male,United States,62870,1,Artist,YouTube,190,3,9,25,28,42,Morning,8,2,Boredom,10,0,At home
+24,Male,Mexico,81944,1,Students,Facebook,225,3,6,6,20,43,Afternoon,5,5,Habit,7,3,At home
+32,Female,India,48151,0,driver,YouTube,180,5,6,12,20,43,Night,3,7,Habit,5,5,Commuting
+37,Female,Vietnam,65096,1,Artist,Facebook,174,13,8,14,25,43,Night,3,7,Habit,5,5,At work
+52,Male,India,51655,1,Waiting staff,TikTok,35,16,9,5,38,43,Afternoon,5,5,Entertainment,7,3,At work
+53,Female,United States,98002,1,Students,Instagram,99,15,4,16,45,43,Afternoon,5,5,Entertainment,7,3,At work
+58,Female,United States,40307,0,Teacher,Facebook,191,12,8,3,9,43,Evening,8,2,Entertainment,10,0,At school
+63,Male,Mexico,51259,1,Labor/Worker,Facebook,51,10,4,23,41,43,Night,3,7,Procrastination,5,5,At school
+64,Male,India,63056,1,Students,TikTok,246,29,7,4,15,43,Evening,6,4,Boredom,8,2,At school
+20,Female,Philippines,62821,1,Students,YouTube,66,5,7,10,11,44,Evening,6,4,Entertainment,8,2,At school
+24,Male,Indonesia,87263,1,Teacher,Facebook,203,9,9,15,17,44,Evening,6,4,Boredom,8,2,At home
+26,Other,United States,89615,1,Students,Facebook,139,18,8,4,36,44,Night,3,7,Boredom,5,5,At home
+27,Male,India,94218,1,Waiting staff,TikTok,165,12,3,9,28,44,Night,9,1,Procrastination,10,0,Commuting
+35,Female,Barzil,36209,0,Students,TikTok,38,5,6,7,10,44,Morning,3,7,Entertainment,5,5,At home
+40,Male,Barzil,91675,1,Labor/Worker,Instagram,171,12,2,10,24,44,Afternoon,4,6,Boredom,6,4,At home
+43,Male,Vietnam,58547,1,Labor/Worker,Facebook,190,5,2,18,49,44,Morning,8,2,Entertainment,10,0,At school
+44,Female,Barzil,25774,0,Cashier,Facebook,149,13,6,10,32,44,Night,3,7,Habit,5,5,At school
+44,Male,Indonesia,62946,1,Students,Instagram,280,19,1,5,25,44,Night,3,7,Procrastination,5,5,At home
+45,Male,India,27239,0,Manager,TikTok,143,28,2,25,39,44,Evening,6,4,Entertainment,8,2,At home
+55,Male,Vietnam,96112,1,Students,Facebook,189,7,1,1,1,44,Night,6,4,Entertainment,8,2,At home
+64,Female,Mexico,31944,0,Artist,Facebook,139,29,6,15,23,44,Evening,5,5,Procrastination,7,3,At school
+64,Male,Germany,67093,1,Students,TikTok,34,28,5,23,43,44,Night,1,9,Entertainment,3,7,At work
+25,Female,India,26304,0,driver,TikTok,261,8,6,25,36,45,Night,3,7,Procrastination,5,5,Commuting
+34,Male,Indonesia,32605,0,Teacher,TikTok,37,18,3,4,40,45,Evening,6,4,Boredom,8,2,At work
+39,Other,Vietnam,75284,1,Labor/Worker,TikTok,126,15,9,8,3,45,Evening,7,3,Boredom,9,1,At school
+42,Other,India,62849,1,Cashier,YouTube,269,23,1,24,33,45,Night,2,8,Habit,4,6,At home
+46,Male,India,28259,0,driver,Facebook,217,18,6,12,37,45,Evening,6,4,Entertainment,8,2,At school
+48,Male,Pakistan,57772,1,Students,YouTube,49,11,3,28,6,45,Afternoon,4,6,Habit,6,4,At home
+50,Male,United States,39539,0,driver,TikTok,253,27,4,19,13,45,Night,2,8,Habit,4,6,At home
+18,Male,India,37862,0,Students,TikTok,224,26,7,15,8,46,Night,3,7,Boredom,5,5,At home
+22,Female,Philippines,91126,1,Students,YouTube,103,13,4,12,9,46,Evening,6,4,Habit,8,2,At home
+25,Other,India,34289,0,Cashier,TikTok,206,20,7,24,9,46,Evening,6,4,Habit,8,2,At home
+33,Female,India,57226,1,Teacher,Facebook,188,9,8,8,15,46,Afternoon,4,6,Habit,6,4,At school
+39,Female,Germany,46512,0,Engineer,Facebook,15,23,1,3,4,46,Afternoon,5,5,Procrastination,7,3,At home
+41,Other,Vietnam,63619,1,Cashier,YouTube,207,16,9,13,5,46,Evening,6,4,Boredom,8,2,At school
+42,Female,United States,60197,1,driver,TikTok,134,9,4,26,10,46,Afternoon,5,5,Boredom,7,3,At work
+45,Female,Vietnam,50386,1,Waiting staff,Instagram,287,20,7,11,13,46,Evening,5,5,Procrastination,7,3,At home
+46,Female,Mexico,27999,0,Artist,Instagram,228,19,6,25,31,46,Afternoon,5,5,Habit,7,3,At school
+47,Male,India,97067,1,Cashier,Instagram,177,8,2,22,8,46,Evening,6,4,Entertainment,8,2,At home
+50,Male,Indonesia,26031,0,Labor/Worker,YouTube,252,10,2,18,38,46,Evening,7,3,Entertainment,9,1,At work
+54,Other,Mexico,80348,1,Labor/Worker,Instagram,285,11,8,2,24,46,Afternoon,6,4,Entertainment,8,2,Commuting
+64,Male,Indonesia,20781,0,Artist,Instagram,155,14,5,16,39,46,Night,3,7,Procrastination,5,5,At home
+20,Female,Japan,53691,1,Labor/Worker,YouTube,66,22,8,18,46,47,Evening,6,4,Habit,8,2,At home
+20,Male,United States,37015,0,Labor/Worker,TikTok,127,1,8,5,48,47,Night,3,7,Entertainment,5,5,At home
+22,Male,India,74254,1,Students,TikTok,144,1,6,17,17,47,Afternoon,9,1,Procrastination,10,0,At work
+23,Male,Indonesia,52792,1,Cashier,YouTube,252,6,5,19,1,47,Night,9,1,Habit,10,0,At school
+27,Male,United States,98915,1,Waiting staff,Instagram,267,8,7,23,4,47,Night,8,2,Procrastination,10,0,Commuting
+28,Male,Germany,76547,1,driver,Instagram,211,17,2,19,26,47,Evening,8,2,Habit,10,0,At school
+36,Other,India,68515,1,Students,YouTube,38,3,7,20,45,47,Evening,5,5,Boredom,7,3,At school
+36,Other,India,73384,1,Students,TikTok,69,25,9,2,49,47,Night,3,7,Habit,5,5,At school
+44,Male,Indonesia,98033,1,Labor/Worker,TikTok,168,13,7,24,48,47,Afternoon,6,4,Procrastination,8,2,At school
+51,Male,United States,50750,1,Manager,YouTube,67,3,4,12,27,47,Evening,3,7,Boredom,5,5,At work
+61,Male,Germany,26971,0,Students,YouTube,161,5,1,17,5,47,Night,3,7,Entertainment,5,5,At work
+61,Other,United States,96021,1,Students,TikTok,170,19,3,25,7,47,Night,1,9,Boredom,3,7,At school
+23,Female,United States,84307,1,Students,Instagram,266,18,3,15,8,48,Night,3,7,Boredom,5,5,At home
+25,Female,Mexico,32828,0,Waiting staff,TikTok,125,14,5,3,16,48,Evening,9,1,Habit,10,0,At home
+28,Female,Indonesia,55596,1,Labor/Worker,Instagram,11,4,8,6,49,48,Evening,8,2,Entertainment,10,0,At work
+29,Male,Japan,65603,1,Labor/Worker,TikTok,136,29,1,14,46,48,Afternoon,5,5,Entertainment,7,3,At school
+31,Male,Vietnam,47734,0,Waiting staff,Instagram,67,11,8,19,4,48,Night,1,9,Boredom,3,7,At home
+34,Male,India,87580,1,driver,YouTube,89,4,7,21,2,48,Evening,6,4,Entertainment,8,2,At home
+39,Female,Mexico,33493,0,Waiting staff,Facebook,102,21,5,18,15,48,Afternoon,5,5,Habit,7,3,At home
+46,Female,Indonesia,79042,1,Students,YouTube,261,15,8,15,14,48,Evening,6,4,Procrastination,8,2,At school
+47,Female,Mexico,39337,0,Waiting staff,Instagram,138,12,9,5,36,48,Morning,7,3,Procrastination,9,1,At home
+47,Female,Vietnam,40447,0,Waiting staff,Instagram,139,12,1,25,27,48,Evening,3,7,Habit,5,5,At school
+50,Male,India,20282,0,driver,Instagram,164,12,6,18,15,48,Afternoon,5,5,Habit,7,3,At work
+56,Other,Indonesia,53002,1,Labor/Worker,Instagram,110,1,9,12,38,48,Evening,8,2,Boredom,10,0,At school
+56,Male,Barzil,53380,1,Labor/Worker,Instagram,258,8,7,2,37,48,Night,3,7,Entertainment,5,5,At home
+59,Male,United States,90968,1,Teacher,Facebook,66,19,9,12,30,48,Afternoon,5,5,Entertainment,7,3,At school
+24,Male,Barzil,47716,0,Waiting staff,Facebook,213,12,9,13,5,49,Evening,5,5,Habit,7,3,At home
+29,Male,United States,41312,0,Labor/Worker,TikTok,101,5,4,16,23,49,Afternoon,6,4,Boredom,8,2,At home
+29,Male,India,72756,1,Students,YouTube,277,12,6,4,35,49,Evening,6,4,Boredom,8,2,Commuting
+29,Male,Pakistan,41447,0,driver,TikTok,289,15,2,19,41,49,Evening,6,4,Habit,8,2,At home
+34,Female,Pakistan,62727,1,Students,Instagram,161,20,6,28,38,49,Evening,9,1,Entertainment,10,0,At home
+43,Female,United States,82522,1,Students,YouTube,57,25,4,6,37,49,Night,8,2,Habit,10,0,At home
+49,Female,India,95330,1,driver,Instagram,16,14,5,11,34,49,Evening,6,4,Boredom,8,2,At home
+54,Female,Mexico,39611,0,Waiting staff,YouTube,95,25,2,28,4,49,Night,8,2,Entertainment,10,0,At work
+58,Female,Barzil,68777,1,Labor/Worker,Instagram,176,23,3,28,31,49,Evening,6,4,Habit,8,2,At home
+62,Male,United States,20340,0,Waiting staff,TikTok,273,12,1,23,37,49,Night,1,9,Entertainment,3,7,At home
+64,Female,India,51881,1,Waiting staff,YouTube,33,12,6,20,4,49,Evening,8,2,Entertainment,10,0,Commuting
+18,Male,India,41386,0,Waiting staff,Instagram,268,6,7,14,20,50,Night,2,8,Entertainment,4,6,At work
+23,Male,Pakistan,39595,0,Students,Instagram,278,29,5,28,26,50,Night,1,9,Habit,3,7,At home
+50,Female,Vietnam,37154,0,Waiting staff,TikTok,11,19,1,18,15,50,Morning,9,1,Boredom,10,0,At home
+56,Female,Japan,91849,1,Labor/Worker,TikTok,56,13,4,28,45,50,Morning,7,3,Entertainment,9,1,At work
+63,Female,Japan,79675,1,Waiting staff,Instagram,78,21,9,9,23,50,Evening,6,4,Boredom,8,2,At school
+19,Male,India,67832,1,Students,YouTube,30,27,6,1,49,51,Night,3,7,Entertainment,5,5,Commuting
+20,Female,Germany,28179,0,driver,TikTok,62,1,5,27,38,51,Night,3,7,Entertainment,5,5,At school
+27,Female,India,98931,1,Labor/Worker,TikTok,178,12,5,11,39,51,Morning,9,1,Procrastination,10,0,Commuting
+30,Female,Germany,21140,0,Labor/Worker,Instagram,229,3,6,26,29,51,Night,1,9,Habit,3,7,At school
+43,Female,United States,85333,1,Students,Instagram,252,2,1,13,4,51,Evening,6,4,Boredom,8,2,At home
+45,Male,United States,42432,0,Students,TikTok,37,24,9,17,25,51,Afternoon,6,4,Habit,8,2,At work
+45,Female,Philippines,78342,1,Students,TikTok,144,11,9,2,17,51,Evening,5,5,Habit,7,3,At home
+49,Male,Barzil,26796,0,Labor/Worker,TikTok,126,14,2,18,21,51,Night,3,7,Habit,5,5,Commuting
+59,Other,United States,64864,1,Waiting staff,Instagram,236,23,6,11,2,51,Evening,6,4,Procrastination,8,2,At home
+62,Female,Barzil,44322,0,Teacher,TikTok,136,18,5,18,10,51,Morning,8,2,Entertainment,10,0,Commuting
+62,Male,Philippines,41038,0,Labor/Worker,Instagram,214,15,6,13,21,51,Evening,6,4,Habit,8,2,At school
+19,Other,Germany,25498,0,Waiting staff,TikTok,53,17,2,1,39,52,Morning,7,3,Entertainment,9,1,At school
+19,Female,Barzil,37069,0,Students,Facebook,28,22,2,9,29,52,Evening,6,4,Habit,8,2,At home
+19,Male,India,40963,0,Cashier,YouTube,283,25,7,19,10,52,Evening,6,4,Entertainment,8,2,Commuting
+30,Other,India,30503,0,driver,YouTube,38,3,8,19,16,52,Evening,5,5,Entertainment,7,3,At school
+31,Male,India,27345,0,Labor/Worker,Facebook,274,24,1,9,11,52,Afternoon,5,5,Procrastination,7,3,Commuting
+40,Male,India,52327,1,Labor/Worker,Instagram,162,10,1,5,41,52,Morning,8,2,Habit,10,0,At home
+43,Female,Pakistan,98860,1,Waiting staff,Facebook,227,29,5,13,27,52,Night,8,2,Habit,10,0,At home
+45,Female,Philippines,57991,1,Labor/Worker,TikTok,33,27,7,22,32,52,Afternoon,5,5,Entertainment,7,3,At home
+49,Other,Mexico,52402,1,Students,Facebook,99,18,7,5,35,52,Evening,3,7,Habit,5,5,At work
+51,Male,Japan,66305,1,Engineer,Facebook,154,5,2,26,41,52,Night,3,7,Habit,5,5,At work
+58,Male,Vietnam,92516,1,Students,YouTube,175,10,4,24,8,52,Morning,8,2,Entertainment,10,0,At home
+61,Other,India,50573,1,Waiting staff,YouTube,10,8,1,14,29,52,Evening,6,4,Boredom,8,2,At home
+61,Other,Vietnam,21431,0,Manager,Instagram,64,6,9,15,3,52,Night,3,7,Habit,5,5,At home
+22,Male,United States,56598,1,Artist,Facebook,198,28,7,13,41,53,Night,3,7,Habit,5,5,At school
+33,Male,Mexico,98279,1,driver,YouTube,141,15,2,8,24,53,Night,2,8,Entertainment,4,6,At home
+40,Female,India,57437,1,Students,TikTok,41,10,2,19,34,53,Morning,9,1,Boredom,10,0,At home
+41,Male,India,36237,0,driver,TikTok,234,22,6,28,25,53,Evening,6,4,Boredom,8,2,At home
+43,Other,Philippines,49009,0,Waiting staff,TikTok,298,23,6,10,8,53,Afternoon,5,5,Entertainment,7,3,At work
+47,Female,Indonesia,23321,0,Labor/Worker,TikTok,65,4,9,22,29,53,Morning,9,1,Procrastination,10,0,At home
+49,Male,Germany,90812,1,driver,Facebook,289,18,6,4,27,53,Evening,8,2,Boredom,10,0,At school
+59,Other,Barzil,25906,0,driver,YouTube,236,4,4,21,44,53,Evening,6,4,Entertainment,8,2,At home
+61,Male,United States,79500,1,Students,TikTok,207,8,9,18,1,53,Night,1,9,Habit,3,7,At home
+22,Male,India,25571,0,Manager,TikTok,236,10,6,17,22,54,Evening,3,7,Boredom,5,5,Commuting
+25,Female,Japan,86914,1,Waiting staff,Instagram,110,14,9,20,26,54,Night,8,2,Habit,10,0,At home
+27,Female,India,40878,0,Labor/Worker,TikTok,79,22,1,23,16,54,Evening,5,5,Habit,7,3,Commuting
+49,Male,India,88648,1,Labor/Worker,TikTok,112,10,5,21,1,54,Evening,7,3,Boredom,9,1,At school
+49,Male,Barzil,94637,1,Students,TikTok,197,10,4,25,6,54,Night,2,8,Habit,4,6,At home
+50,Male,India,97949,1,Waiting staff,Facebook,72,20,6,19,39,54,Evening,5,5,Entertainment,7,3,Commuting
+28,Male,United States,45372,0,Teacher,Facebook,264,26,9,18,25,55,Night,1,9,Habit,3,7,At school
+33,Male,India,20162,0,Labor/Worker,Instagram,96,23,9,15,22,55,Night,3,7,Boredom,5,5,Commuting
+34,Male,India,87065,1,Students,TikTok,137,10,1,1,32,55,Night,3,7,Boredom,5,5,Commuting
+39,Female,Vietnam,22261,0,Students,YouTube,76,15,3,25,26,55,Afternoon,5,5,Boredom,7,3,At school
+49,Female,United States,37611,0,Cashier,Instagram,21,13,6,9,10,55,Afternoon,4,6,Boredom,6,4,At school
+56,Male,Germany,84166,1,Labor/Worker,TikTok,12,20,7,24,19,55,Morning,8,2,Procrastination,10,0,At home
+60,Other,India,38800,0,Labor/Worker,TikTok,80,2,1,28,26,55,Afternoon,4,6,Entertainment,6,4,At home
+61,Male,United States,57051,1,Labor/Worker,Instagram,246,23,2,13,4,55,Morning,8,2,Habit,10,0,At work
+19,Female,Philippines,21283,0,driver,Facebook,129,15,4,4,46,56,Morning,8,2,Habit,10,0,At home
+35,Other,United States,59779,1,Waiting staff,YouTube,265,24,6,16,32,56,Night,8,2,Habit,10,0,At school
+37,Male,United States,82320,1,Students,YouTube,60,27,9,4,37,56,Night,1,9,Boredom,3,7,At school
+37,Male,United States,33893,0,Students,YouTube,185,5,3,2,22,56,Night,1,9,Entertainment,3,7,Commuting
+39,Female,Mexico,41778,0,Manager,Facebook,219,29,3,21,27,56,Night,3,7,Habit,5,5,At work
+41,Female,United States,89184,1,Waiting staff,Facebook,91,1,8,12,28,56,Afternoon,5,5,Entertainment,7,3,At work
+43,Male,Germany,94878,1,Engineer,TikTok,180,4,7,12,10,56,Night,2,8,Entertainment,4,6,At school
+45,Male,United States,44842,0,Labor/Worker,TikTok,186,23,7,15,14,56,Night,1,9,Entertainment,3,7,Commuting
+59,Female,India,28036,0,Labor/Worker,TikTok,119,15,5,25,32,56,Evening,5,5,Entertainment,7,3,At work
+22,Female,Vietnam,51131,1,driver,TikTok,197,17,2,2,33,57,Night,8,2,Entertainment,10,0,At home
+36,Female,Philippines,76882,1,Labor/Worker,Facebook,264,1,6,29,9,57,Evening,5,5,Habit,7,3,At work
+43,Male,India,30516,0,Waiting staff,Instagram,18,23,7,13,29,57,Morning,9,1,Boredom,10,0,At home
+43,Male,United States,79766,1,Labor/Worker,TikTok,94,2,9,15,17,57,Night,3,7,Boredom,5,5,Commuting
+52,Male,Philippines,87055,1,Teacher,TikTok,43,21,3,2,28,57,Night,3,7,Entertainment,5,5,At home
+52,Male,Philippines,45518,0,Artist,YouTube,256,21,8,26,39,57,Night,1,9,Boredom,3,7,At home
+64,Male,India,46086,0,Labor/Worker,TikTok,27,4,6,11,35,57,Evening,5,5,Procrastination,7,3,At home
+18,Female,India,95774,1,Waiting staff,Facebook,142,15,7,27,30,58,Night,1,9,Boredom,3,7,At home
+34,Male,Vietnam,56575,1,Waiting staff,Instagram,197,7,4,12,25,58,Evening,5,5,Procrastination,7,3,At school
+35,Other,Indonesia,69733,1,Cashier,TikTok,292,23,3,24,10,58,Morning,8,2,Entertainment,10,0,At home
+44,Female,India,21898,0,Engineer,YouTube,282,20,8,28,44,58,Evening,6,4,Procrastination,8,2,At school
+45,Female,Vietnam,36994,0,Labor/Worker,TikTok,213,13,2,5,3,58,Evening,6,4,Procrastination,8,2,At work
+53,Other,Philippines,67775,1,Students,YouTube,71,22,5,13,36,58,Night,2,8,Habit,4,6,At home
+57,Male,United States,98707,1,driver,YouTube,144,29,7,26,23,58,Night,3,7,Boredom,5,5,At home
+22,Male,United States,50403,1,Labor/Worker,YouTube,265,5,6,12,39,59,Evening,5,5,Habit,7,3,At home
+26,Other,India,75350,1,Labor/Worker,YouTube,175,2,5,25,16,59,Afternoon,8,2,Boredom,10,0,At home
+26,Male,India,98356,1,driver,Facebook,160,9,2,27,34,59,Evening,3,7,Procrastination,5,5,At school
+28,Male,India,20587,0,Labor/Worker,YouTube,247,29,9,14,4,59,Night,3,7,Entertainment,5,5,At home
+29,Female,Philippines,57823,1,Cashier,TikTok,159,15,8,20,6,59,Evening,6,4,Habit,8,2,At work
+37,Female,United States,31908,0,Labor/Worker,Facebook,110,28,8,20,49,59,Evening,3,7,Habit,5,5,At home
+39,Male,Germany,83115,1,Engineer,Instagram,240,26,9,4,13,59,Night,3,7,Procrastination,5,5,At school
+58,Male,Philippines,26629,0,Labor/Worker,Instagram,250,8,4,28,13,59,Evening,6,4,Habit,8,2,At school
+59,Male,United States,30487,0,Waiting staff,YouTube,165,3,6,2,27,59,Evening,6,4,Boredom,8,2,At work
+23,Male,Mexico,48933,0,Engineer,YouTube,62,21,7,22,24,60,Morning,8,2,Boredom,10,0,At school
+31,Male,Japan,76115,1,Waiting staff,YouTube,59,28,5,13,5,60,Morning,7,3,Entertainment,9,1,At school
+40,Male,Barzil,58211,1,Manager,Instagram,118,12,9,14,14,60,Night,2,8,Entertainment,4,6,At home
+49,Female,Japan,64409,1,Artist,Instagram,75,14,4,17,25,60,Afternoon,6,4,Habit,8,2,At home
+50,Male,Barzil,28472,0,Engineer,Facebook,132,15,8,26,3,60,Afternoon,5,5,Habit,7,3,At home
+54,Male,India,99025,1,driver,Facebook,76,29,9,7,38,60,Night,3,7,Habit,5,5,At home
+55,Female,Vietnam,88344,1,driver,Facebook,35,21,1,23,43,60,Night,1,9,Boredom,3,7,At work
+22,Male,Philippines,92127,1,Waiting staff,YouTube,150,10,8,21,48,61,Evening,5,5,Habit,7,3,At school
+28,Female,Pakistan,50431,1,Labor/Worker,TikTok,93,9,4,12,15,61,Night,8,2,Entertainment,10,0,At school
+35,Male,Indonesia,22659,0,Students,Instagram,48,12,6,10,12,61,Evening,6,4,Boredom,8,2,At school
+37,Male,Germany,93463,1,Waiting staff,YouTube,113,12,4,24,44,61,Evening,6,4,Boredom,8,2,At work
+39,Male,Japan,43252,0,Students,YouTube,246,20,1,22,44,61,Evening,6,4,Habit,8,2,Commuting
+45,Male,Barzil,89338,1,Students,Facebook,160,11,9,17,27,61,Night,1,9,Procrastination,3,7,At home
+50,Other,India,23866,0,Labor/Worker,Facebook,24,19,2,10,39,61,Evening,8,2,Procrastination,10,0,At work
+54,Male,Mexico,31205,0,Teacher,YouTube,31,20,9,7,13,61,Morning,8,2,Habit,10,0,At home
+55,Female,United States,23630,0,Waiting staff,TikTok,31,2,2,28,30,61,Night,1,9,Boredom,3,7,Commuting
+58,Female,Germany,38474,0,Waiting staff,Facebook,56,13,9,25,18,61,Night,3,7,Entertainment,5,5,At school
+61,Other,Indonesia,22204,0,Artist,YouTube,158,11,6,22,44,61,Evening,3,7,Boredom,5,5,At work
+18,Female,Pakistan,79156,1,Students,TikTok,227,8,7,21,45,62,Afternoon,6,4,Entertainment,8,2,At school
+18,Other,Indonesia,99473,1,Waiting staff,YouTube,271,4,5,24,36,62,Afternoon,5,5,Entertainment,7,3,At home
+19,Male,Japan,58244,1,Waiting staff,TikTok,21,28,6,21,4,62,Afternoon,6,4,Habit,8,2,At school
+19,Other,India,82824,1,Labor/Worker,Facebook,138,24,6,2,9,62,Night,3,7,Habit,5,5,At home
+20,Male,Japan,92805,1,Students,Instagram,155,3,8,2,42,62,Night,1,9,Entertainment,3,7,At school
+25,Other,India,92982,1,Labor/Worker,YouTube,78,23,1,3,30,62,Evening,7,3,Entertainment,9,1,At school
+28,Female,Indonesia,81049,1,Cashier,Instagram,129,28,9,6,41,62,Evening,7,3,Procrastination,9,1,At home
+33,Male,India,27684,0,Cashier,Instagram,126,5,7,28,14,62,Afternoon,4,6,Habit,6,4,At home
+36,Female,Pakistan,68651,1,driver,Instagram,163,12,2,14,45,62,Afternoon,4,6,Habit,6,4,At work
+41,Female,United States,82987,1,Labor/Worker,Instagram,78,21,3,12,48,62,Afternoon,5,5,Entertainment,7,3,At home
+42,Other,United States,91707,1,Manager,TikTok,138,27,9,1,1,62,Night,3,7,Entertainment,5,5,At home
+43,Male,Indonesia,30293,0,Students,TikTok,35,26,7,15,17,62,Afternoon,6,4,Entertainment,8,2,At school
+45,Female,Pakistan,69416,1,driver,YouTube,263,4,9,3,48,62,Night,3,7,Boredom,5,5,At work
+61,Male,Pakistan,85344,1,Students,YouTube,151,15,5,12,30,62,Night,3,7,Procrastination,5,5,At work
+61,Female,Mexico,48669,0,Labor/Worker,TikTok,91,15,6,17,36,62,Night,2,8,Habit,4,6,Commuting
+62,Male,Germany,34376,0,Waiting staff,Instagram,112,25,5,15,28,62,Night,2,8,Entertainment,4,6,At work
+21,Other,India,40644,0,Teacher,TikTok,220,27,4,18,22,63,Afternoon,5,5,Habit,7,3,At home
+23,Other,Vietnam,40936,0,Students,TikTok,87,12,4,21,23,63,Afternoon,8,2,Habit,10,0,At school
+23,Female,United States,59129,1,Waiting staff,Facebook,298,17,9,22,13,63,Evening,8,2,Entertainment,10,0,At home
+23,Male,India,37071,0,Labor/Worker,TikTok,86,21,8,2,48,63,Evening,6,4,Entertainment,8,2,At work
+27,Female,India,72327,1,Waiting staff,YouTube,290,26,3,3,46,63,Morning,8,2,Boredom,10,0,At school
+38,Female,United States,90910,1,Engineer,Instagram,99,28,8,3,49,63,Morning,8,2,Boredom,10,0,At work
+40,Male,Japan,66571,1,Students,Instagram,292,22,1,12,15,63,Evening,6,4,Boredom,8,2,Commuting
+45,Male,India,64695,1,Students,Facebook,25,2,9,11,31,63,Afternoon,4,6,Procrastination,6,4,At work
+52,Other,United States,91906,1,Waiting staff,TikTok,196,20,2,17,14,63,Evening,6,4,Boredom,8,2,At home
+53,Male,Vietnam,82292,1,Engineer,Facebook,288,11,4,5,1,63,Evening,6,4,Entertainment,8,2,At school
+55,Female,Pakistan,78283,1,Waiting staff,YouTube,75,13,6,28,29,63,Evening,8,2,Boredom,10,0,At home
+56,Male,India,46201,0,Students,TikTok,247,16,9,22,20,63,Morning,8,2,Habit,10,0,At school
+56,Male,Barzil,51778,1,Students,TikTok,78,22,5,18,42,63,Evening,5,5,Habit,7,3,At work
+63,Female,Mexico,88026,1,Labor/Worker,YouTube,129,6,8,29,24,63,Night,1,9,Procrastination,3,7,At home
+21,Male,Barzil,78161,1,Labor/Worker,YouTube,197,4,7,5,31,64,Night,8,2,Boredom,10,0,At school
+24,Female,Vietnam,73909,1,driver,YouTube,290,15,5,21,1,64,Evening,6,4,Habit,8,2,At work
+30,Other,India,38658,0,Engineer,TikTok,87,16,2,9,9,64,Evening,6,4,Habit,8,2,Commuting
+32,Female,United States,21589,0,Labor/Worker,YouTube,157,6,4,26,14,64,Evening,6,4,Entertainment,8,2,At school
+39,Other,Pakistan,44264,0,Students,Facebook,135,9,4,21,8,64,Night,3,7,Habit,5,5,At home
+48,Male,India,42031,0,Teacher,YouTube,224,5,2,29,4,64,Night,3,7,Habit,5,5,At home
+50,Female,Japan,44968,0,Waiting staff,Facebook,130,23,8,6,45,64,Morning,8,2,Habit,10,0,Commuting
+52,Male,United States,20155,0,Artist,Instagram,11,17,5,28,17,64,Evening,6,4,Habit,8,2,At school
+54,Male,Vietnam,75243,1,Labor/Worker,Instagram,96,18,3,27,8,64,Night,9,1,Boredom,10,0,At school
+54,Male,Japan,59332,1,driver,TikTok,205,23,8,24,39,64,Night,3,7,Procrastination,5,5,At school
+62,Female,Indonesia,95250,1,Waiting staff,YouTube,270,24,4,7,41,64,Night,1,9,Boredom,3,7,At school
+22,Male,Barzil,71919,1,Waiting staff,Facebook,112,5,1,4,31,65,Evening,5,5,Habit,7,3,At work
+35,Other,Japan,70876,1,Students,Facebook,219,26,4,24,32,65,Evening,5,5,Entertainment,7,3,At home
+38,Male,United States,99222,1,Artist,YouTube,173,7,6,5,18,65,Evening,6,4,Habit,8,2,Commuting
+38,Male,Indonesia,37858,0,Manager,TikTok,91,20,4,3,18,65,Night,2,8,Entertainment,4,6,At school
+39,Male,United States,56021,1,Labor/Worker,YouTube,34,9,2,23,7,65,Night,6,4,Habit,8,2,At home
+41,Male,United States,60992,1,Cashier,Facebook,223,18,3,12,5,65,Night,8,2,Boredom,10,0,At work
+49,Female,Mexico,65734,1,Waiting staff,Instagram,264,19,3,13,32,65,Evening,7,3,Habit,9,1,At school
+52,Male,Indonesia,49689,0,Labor/Worker,TikTok,48,2,9,10,29,65,Afternoon,4,6,Entertainment,6,4,At work
+52,Male,Pakistan,32866,0,Students,Instagram,201,5,9,7,16,65,Afternoon,4,6,Entertainment,6,4,At work
+56,Male,Pakistan,42263,0,Students,TikTok,128,16,7,24,11,65,Morning,8,2,Boredom,10,0,Commuting
+58,Other,Germany,30886,0,Waiting staff,YouTube,217,26,6,19,42,65,Evening,5,5,Boredom,7,3,At home
+61,Male,Pakistan,21401,0,Artist,Instagram,291,23,6,29,47,65,Evening,8,2,Habit,10,0,At work
+61,Male,Vietnam,50682,1,driver,TikTok,45,5,8,8,31,65,Afternoon,5,5,Procrastination,7,3,At work
+62,Other,United States,95357,1,Labor/Worker,TikTok,190,28,7,6,28,65,Night,8,2,Procrastination,10,0,At home
+21,Female,Indonesia,76044,1,Manager,YouTube,74,27,2,10,43,66,Night,3,7,Boredom,5,5,Commuting
+26,Male,India,83278,1,Labor/Worker,Instagram,56,4,7,20,3,66,Afternoon,5,5,Entertainment,7,3,At work
+29,Female,Vietnam,97487,1,driver,TikTok,123,17,7,10,36,66,Night,3,7,Habit,5,5,At school
+35,Other,India,60718,1,Waiting staff,Facebook,179,27,5,27,40,66,Afternoon,5,5,Entertainment,7,3,At home
+43,Other,Mexico,38354,0,Students,Facebook,98,21,5,4,5,66,Night,1,9,Boredom,3,7,At home
+45,Female,Mexico,29764,0,driver,TikTok,267,26,1,25,12,66,Evening,3,7,Habit,5,5,Commuting
+47,Male,India,27736,0,Waiting staff,YouTube,286,13,3,18,49,66,Afternoon,5,5,Habit,7,3,Commuting
+48,Female,Philippines,86314,1,Labor/Worker,Facebook,30,17,5,14,2,66,Evening,6,4,Entertainment,8,2,At home
+48,Other,United States,30651,0,Labor/Worker,Instagram,190,26,7,29,33,66,Night,2,8,Entertainment,4,6,At home
+50,Male,Pakistan,43952,0,Teacher,Instagram,57,5,3,10,48,66,Night,3,7,Habit,5,5,At home
+58,Female,Japan,62965,1,Manager,YouTube,282,2,6,4,44,66,Morning,8,2,Boredom,10,0,At school
+58,Other,Japan,37514,0,Engineer,TikTok,194,10,3,18,21,66,Evening,7,3,Habit,9,1,At work
+59,Female,Pakistan,26581,0,Students,Facebook,168,5,2,14,23,66,Night,3,7,Habit,5,5,At school
+62,Female,India,64629,1,Students,YouTube,155,25,7,28,31,66,Night,3,7,Habit,5,5,At school
+23,Male,Mexico,44045,0,Waiting staff,YouTube,201,16,2,8,30,67,Afternoon,4,6,Procrastination,6,4,At school
+26,Female,Mexico,29168,0,Waiting staff,TikTok,241,27,8,26,10,67,Morning,8,2,Habit,10,0,At home
+27,Male,Barzil,35649,0,Labor/Worker,Instagram,184,21,7,20,25,67,Evening,3,7,Boredom,5,5,At school
+27,Male,United States,72395,1,driver,Instagram,181,13,8,19,22,67,Night,2,8,Boredom,4,6,At home
+35,Male,Pakistan,86418,1,Students,Instagram,250,22,2,4,8,67,Morning,7,3,Entertainment,9,1,At home
+44,Female,Germany,31002,0,Students,Instagram,123,11,6,17,30,67,Morning,8,2,Entertainment,10,0,At school
+45,Female,India,76307,1,Manager,Instagram,186,4,8,26,43,67,Night,3,7,Habit,5,5,At work
+49,Other,Barzil,69812,1,Students,Instagram,67,9,4,10,22,67,Afternoon,5,5,Entertainment,7,3,At work
+51,Female,Philippines,31190,0,Waiting staff,YouTube,82,9,8,3,39,67,Night,3,7,Habit,5,5,At home
+56,Female,India,90202,1,Waiting staff,Instagram,13,19,4,7,40,67,Night,3,7,Entertainment,5,5,At home
+61,Other,India,30350,0,Students,Facebook,170,16,8,20,44,67,Afternoon,8,2,Entertainment,10,0,At school
+63,Female,India,23236,0,Artist,YouTube,20,29,2,20,19,67,Evening,5,5,Entertainment,7,3,At home
+25,Other,India,82551,1,Engineer,TikTok,86,2,8,1,29,68,Evening,3,7,Boredom,5,5,At school
+27,Other,United States,27461,0,Artist,TikTok,155,7,8,4,29,68,Afternoon,6,4,Habit,8,2,At home
+27,Male,Mexico,80948,1,Manager,Facebook,266,1,5,9,1,68,Evening,6,4,Habit,8,2,Commuting
+29,Male,Mexico,56593,1,driver,Facebook,149,28,1,17,34,68,Evening,5,5,Habit,7,3,At school
+37,Female,Germany,96975,1,driver,TikTok,248,6,2,10,21,68,Night,3,7,Habit,5,5,At home
+47,Male,United States,94663,1,Labor/Worker,Instagram,107,21,8,5,15,68,Evening,6,4,Habit,8,2,At school
+52,Female,Indonesia,38133,0,Students,TikTok,117,22,5,14,49,68,Evening,6,4,Habit,8,2,At home
+55,Female,Barzil,32145,0,Waiting staff,YouTube,35,8,7,22,34,68,Night,8,2,Habit,10,0,At work
+62,Male,United States,22551,0,Students,YouTube,154,1,6,7,27,68,Night,3,7,Boredom,5,5,At school
+22,Female,Pakistan,93869,1,Students,YouTube,33,12,4,8,7,69,Evening,6,4,Habit,8,2,At home
+22,Male,Barzil,54228,1,Students,TikTok,239,11,8,25,15,69,Night,3,7,Habit,5,5,At home
+22,Male,Mexico,98682,1,Labor/Worker,TikTok,121,9,4,16,10,69,Night,2,8,Habit,4,6,At work
+23,Male,Indonesia,91354,1,Students,YouTube,38,14,5,3,35,69,Afternoon,8,2,Procrastination,10,0,At school
+23,Male,United States,75668,1,Cashier,Facebook,238,17,7,12,47,69,Evening,8,2,Entertainment,10,0,At home
+24,Male,Germany,37073,0,Students,Facebook,48,3,2,26,19,69,Evening,6,4,Boredom,8,2,Commuting
+25,Female,Barzil,49516,0,Students,TikTok,191,11,4,29,33,69,Evening,6,4,Boredom,8,2,At work
+28,Male,Philippines,98112,1,driver,TikTok,91,21,3,1,40,69,Afternoon,5,5,Habit,7,3,At work
+38,Male,Pakistan,35592,0,Labor/Worker,Instagram,114,20,7,15,17,69,Morning,6,4,Habit,8,2,At school
+40,Other,India,96708,1,Manager,TikTok,67,22,3,19,33,69,Evening,7,3,Boredom,9,1,At school
+51,Male,United States,49796,0,Labor/Worker,Instagram,285,23,8,21,36,69,Afternoon,3,7,Habit,5,5,At school
+53,Male,Pakistan,32109,0,Waiting staff,Facebook,100,11,2,16,20,69,Morning,8,2,Boredom,10,0,At work
+53,Female,Barzil,26155,0,driver,Facebook,132,6,7,4,48,69,Evening,3,7,Boredom,5,5,At school
+61,Male,Japan,35036,0,Artist,YouTube,76,24,8,16,21,69,Night,3,7,Habit,5,5,At home
+33,Female,Mexico,66738,1,Engineer,Instagram,55,29,8,20,12,70,Night,3,7,Entertainment,5,5,At school
+41,Other,Barzil,73798,1,Cashier,YouTube,156,6,4,8,29,70,Evening,6,4,Habit,8,2,At work
+42,Female,Indonesia,82507,1,Engineer,Instagram,191,6,1,15,22,70,Night,3,7,Habit,5,5,At school
+43,Female,Indonesia,27521,0,Engineer,YouTube,118,15,2,29,30,70,Night,3,7,Habit,5,5,At home
+53,Male,Japan,22839,0,Waiting staff,Instagram,286,29,5,4,32,70,Afternoon,5,5,Habit,7,3,At school
+54,Male,United States,87496,1,Students,Facebook,153,15,6,5,24,70,Afternoon,4,6,Procrastination,6,4,At work
+58,Male,Philippines,22011,0,Manager,TikTok,78,10,8,10,29,70,Evening,7,3,Entertainment,9,1,At work
+23,Female,Vietnam,22745,0,Students,YouTube,109,20,9,16,43,71,Afternoon,8,2,Habit,10,0,At school
+24,Male,Barzil,52591,1,Cashier,YouTube,51,19,6,11,15,71,Night,3,7,Habit,5,5,At home
+30,Male,Indonesia,80614,1,Labor/Worker,YouTube,215,20,5,23,47,71,Evening,6,4,Boredom,8,2,At work
+38,Other,United States,68511,1,Students,Instagram,292,12,3,11,39,71,Night,9,1,Boredom,10,0,At school
+39,Female,United States,94619,1,Manager,Facebook,211,28,7,9,10,71,Afternoon,6,4,Habit,8,2,At school
+45,Female,United States,35892,0,Waiting staff,TikTok,260,16,3,14,47,71,Afternoon,5,5,Entertainment,7,3,At home
+55,Male,United States,29569,0,Students,TikTok,123,12,8,4,48,71,Night,1,9,Procrastination,3,7,At school
+58,Other,Barzil,37438,0,Teacher,Facebook,213,26,2,23,23,71,Evening,5,5,Habit,7,3,At home
+22,Other,Indonesia,98471,1,driver,TikTok,224,20,9,17,28,72,Afternoon,3,7,Habit,5,5,At home
+25,Female,Germany,42190,0,Waiting staff,Instagram,150,1,2,26,22,72,Afternoon,4,6,Entertainment,6,4,At home
+30,Male,Philippines,64179,1,Engineer,YouTube,61,7,3,12,43,72,Night,3,7,Entertainment,5,5,At home
+33,Other,India,47990,0,Waiting staff,Instagram,187,13,8,29,39,72,Evening,3,7,Habit,5,5,At home
+33,Female,United States,64757,1,Waiting staff,TikTok,225,17,6,1,20,72,Afternoon,3,7,Habit,5,5,At school
+42,Female,Mexico,87990,1,Waiting staff,Instagram,73,20,6,7,18,72,Night,3,7,Procrastination,5,5,At home
+42,Male,Indonesia,20358,0,Cashier,TikTok,284,20,6,29,21,72,Night,1,9,Boredom,3,7,At home
+54,Male,Pakistan,82068,1,Students,Instagram,247,20,2,13,45,72,Evening,7,3,Entertainment,9,1,At home
+57,Other,United States,81610,1,driver,Instagram,46,1,5,15,18,72,Night,8,2,Entertainment,10,0,At home
+63,Female,Barzil,38135,0,Labor/Worker,TikTok,282,11,8,21,21,72,Evening,3,7,Entertainment,5,5,At work
+18,Male,Japan,55634,1,Students,YouTube,124,19,1,15,18,73,Evening,7,3,Habit,9,1,At work
+26,Male,Japan,21381,0,Waiting staff,TikTok,53,6,5,26,10,73,Morning,6,4,Boredom,8,2,At home
+28,Female,Philippines,70939,1,Waiting staff,TikTok,73,24,8,24,4,73,Morning,8,2,Boredom,10,0,At home
+30,Male,Philippines,42852,0,driver,YouTube,135,28,1,24,29,73,Afternoon,6,4,Entertainment,8,2,Commuting
+34,Other,Barzil,42005,0,Students,TikTok,26,22,1,26,29,73,Evening,3,7,Entertainment,5,5,At home
+37,Male,Philippines,92954,1,Waiting staff,TikTok,269,6,1,12,8,73,Evening,6,4,Entertainment,8,2,At home
+39,Male,Vietnam,62070,1,Students,Facebook,191,20,2,11,20,73,Afternoon,5,5,Procrastination,7,3,At home
+42,Male,Vietnam,60379,1,Students,TikTok,107,1,4,9,2,73,Afternoon,6,4,Boredom,8,2,At home
+42,Male,United States,46421,0,Cashier,YouTube,291,14,6,11,35,73,Afternoon,4,6,Entertainment,6,4,At work
+50,Female,Germany,42010,0,Students,YouTube,173,17,9,1,1,73,Afternoon,5,5,Habit,7,3,Commuting
+62,Male,India,91344,1,Teacher,Facebook,260,15,7,4,12,73,Afternoon,5,5,Boredom,7,3,Commuting
+25,Male,Indonesia,90721,1,Cashier,Instagram,167,9,3,10,29,74,Afternoon,8,2,Boredom,10,0,At home
+26,Male,Vietnam,22643,0,Labor/Worker,YouTube,109,20,2,18,31,74,Afternoon,5,5,Procrastination,7,3,At school
+29,Other,Germany,66092,1,Students,Facebook,108,13,8,23,41,74,Evening,3,7,Habit,5,5,At home
+29,Male,Indonesia,31093,0,Labor/Worker,YouTube,173,25,3,19,36,74,Night,3,7,Boredom,5,5,At home
+39,Male,India,47810,0,Waiting staff,Instagram,148,21,7,8,28,74,Afternoon,4,6,Boredom,6,4,At work
+41,Male,Indonesia,65409,1,Labor/Worker,Facebook,255,24,5,9,25,74,Night,8,2,Entertainment,10,0,At school
+43,Male,United States,64363,1,Manager,TikTok,11,27,7,20,17,74,Evening,7,3,Boredom,9,1,At home
+43,Male,United States,55820,1,Students,Facebook,226,2,7,18,39,74,Evening,7,3,Procrastination,9,1,At school
+43,Male,India,31950,0,Waiting staff,Facebook,244,13,6,18,23,74,Afternoon,3,7,Habit,5,5,At work
+45,Female,Mexico,48398,0,Teacher,YouTube,242,13,2,26,3,74,Night,1,9,Entertainment,3,7,At work
+49,Male,Mexico,20645,0,Manager,Facebook,246,19,2,7,18,74,Night,3,7,Procrastination,5,5,At home
+53,Male,Japan,85428,1,driver,TikTok,294,6,9,26,24,74,Night,3,7,Habit,5,5,At home
+54,Female,India,61814,1,Waiting staff,Instagram,137,29,9,24,34,74,Night,3,7,Habit,5,5,At school
+60,Other,United States,80058,1,Students,Facebook,185,21,1,18,42,74,Morning,9,1,Entertainment,10,0,At home
+20,Other,Germany,71631,1,Manager,Instagram,273,3,4,25,29,75,Afternoon,5,5,Habit,7,3,At work
+24,Female,Japan,71168,1,Labor/Worker,Facebook,250,7,5,13,20,75,Evening,6,4,Procrastination,8,2,At school
+30,Other,India,53243,1,Students,Facebook,240,29,5,7,11,75,Evening,6,4,Entertainment,8,2,Commuting
+41,Other,India,95415,1,Waiting staff,TikTok,222,15,4,18,5,75,Night,3,7,Entertainment,5,5,At home
+56,Female,Indonesia,85794,1,Labor/Worker,YouTube,150,26,6,13,30,75,Evening,6,4,Boredom,8,2,At school
+57,Female,India,91975,1,Students,YouTube,220,3,3,26,13,75,Evening,7,3,Habit,9,1,At home
+59,Male,United States,26716,0,Students,YouTube,134,21,8,3,38,75,Evening,6,4,Boredom,8,2,At home
+63,Male,India,78929,1,Waiting staff,TikTok,285,2,4,27,10,75,Evening,6,4,Boredom,8,2,At school
+63,Female,Japan,86634,1,driver,Facebook,37,12,5,29,36,75,Afternoon,3,7,Procrastination,5,5,At work
+21,Female,Germany,84110,1,Manager,YouTube,200,13,1,21,22,76,Afternoon,3,7,Boredom,5,5,At home
+28,Male,Philippines,57711,1,Students,TikTok,185,5,1,2,49,76,Night,3,7,Entertainment,5,5,Commuting
+32,Female,Germany,48454,0,Cashier,Instagram,20,1,2,4,38,76,Afternoon,3,7,Entertainment,5,5,At school
+34,Other,Vietnam,72142,1,Waiting staff,Facebook,29,24,4,6,41,76,Afternoon,5,5,Entertainment,7,3,At school
+34,Male,Germany,94027,1,Labor/Worker,Instagram,285,25,1,8,32,76,Evening,5,5,Entertainment,7,3,At school
+45,Female,United States,87821,1,Waiting staff,YouTube,286,13,2,8,25,76,Afternoon,5,5,Habit,7,3,At work
+47,Male,Indonesia,24426,0,Waiting staff,YouTube,84,16,8,6,13,76,Evening,3,7,Boredom,5,5,At home
+51,Male,India,96240,1,Labor/Worker,YouTube,276,27,5,1,43,76,Afternoon,9,1,Habit,10,0,At work
+51,Female,India,31590,0,Waiting staff,Instagram,51,3,1,5,8,76,Night,1,9,Entertainment,3,7,At home
+57,Female,United States,52602,1,driver,TikTok,132,4,9,8,42,76,Night,3,7,Habit,5,5,At home
+18,Other,Philippines,30983,0,Waiting staff,Facebook,142,17,4,21,27,77,Afternoon,5,5,Entertainment,7,3,At school
+21,Other,Japan,71875,1,driver,TikTok,245,28,2,22,47,77,Afternoon,5,5,Entertainment,7,3,At school
+33,Female,United States,32763,0,Students,YouTube,79,25,7,14,14,77,Night,3,7,Boredom,5,5,At school
+39,Male,India,82443,1,Labor/Worker,YouTube,124,19,7,8,8,77,Night,1,9,Habit,3,7,At home
+43,Male,India,32180,0,Labor/Worker,TikTok,195,14,3,18,34,77,Morning,8,2,Boredom,10,0,At home
+52,Other,United States,86321,1,Cashier,TikTok,180,2,3,18,20,77,Night,1,9,Entertainment,3,7,At work
+55,Male,Barzil,27710,0,driver,Facebook,236,29,3,15,36,77,Afternoon,5,5,Boredom,7,3,Commuting
+64,Male,Barzil,64602,1,Cashier,YouTube,77,22,2,3,49,77,Night,2,8,Entertainment,4,6,At school
+41,Male,United States,56304,1,Students,Instagram,108,25,6,22,27,78,Night,1,9,Procrastination,3,7,Commuting
+56,Other,Vietnam,76481,1,Labor/Worker,TikTok,22,19,4,26,7,78,Evening,6,4,Entertainment,8,2,At school
+62,Male,India,48803,0,Students,Instagram,38,26,6,11,40,78,Evening,6,4,Entertainment,8,2,At school
+19,Male,United States,22539,0,Waiting staff,Facebook,23,4,2,22,47,79,Evening,6,4,Habit,8,2,At school
+23,Male,Vietnam,42669,0,Students,Instagram,155,8,4,22,48,79,Evening,6,4,Boredom,8,2,Commuting
+23,Female,Japan,27016,0,Labor/Worker,Facebook,225,18,9,9,44,79,Evening,6,4,Habit,8,2,At work
+27,Other,Mexico,94763,1,Labor/Worker,YouTube,214,24,6,27,21,79,Evening,3,7,Procrastination,5,5,At home
+36,Male,Germany,36715,0,Waiting staff,YouTube,31,12,6,5,28,79,Night,2,8,Boredom,4,6,At home
+38,Male,Japan,21207,0,Students,Instagram,295,3,8,1,36,79,Night,1,9,Habit,3,7,At school
+40,Other,Japan,49300,0,Labor/Worker,TikTok,280,28,9,22,5,79,Evening,6,4,Boredom,8,2,At school
+42,Male,United States,76622,1,Waiting staff,Instagram,108,23,3,7,36,79,Afternoon,4,6,Habit,6,4,At home
+43,Female,Mexico,70729,1,Engineer,TikTok,53,12,6,7,3,79,Night,3,7,Entertainment,5,5,Commuting
+47,Female,India,79711,1,Teacher,Instagram,280,2,1,16,1,79,Afternoon,5,5,Boredom,7,3,Commuting
+48,Male,United States,71955,1,Cashier,TikTok,68,8,9,13,42,79,Evening,3,7,Entertainment,5,5,At home
+53,Male,India,20929,0,Students,Instagram,39,22,8,9,49,79,Evening,7,3,Procrastination,9,1,At home
+34,Male,India,93016,1,Manager,Facebook,207,15,7,29,19,80,Morning,8,2,Habit,7,3,Commuting
+37,Other,United States,81997,1,Artist,Instagram,131,25,1,20,48,80,Afternoon,8,2,Entertainment,10,0,At home
+38,Male,India,99674,1,driver,Facebook,255,1,9,23,10,80,Night,1,9,Procrastination,3,7,At school
+44,Female,Barzil,39503,0,Cashier,Facebook,88,17,6,4,6,80,Evening,5,5,Boredom,7,3,At school
+33,Male,India,50795,1,Labor/Worker,YouTube,144,8,2,2,6,81,Evening,6,4,Habit,8,2,At work
+38,Male,India,64724,1,driver,TikTok,174,27,7,4,16,81,Afternoon,3,7,Habit,5,5,At home
+41,Other,Vietnam,94905,1,Labor/Worker,YouTube,77,24,6,26,8,81,Night,3,7,Habit,5,5,At work
+42,Male,Vietnam,42054,0,driver,Facebook,187,22,8,18,15,81,Morning,9,1,Habit,10,0,At work
+43,Female,Germany,78653,1,Students,YouTube,33,8,8,9,33,81,Afternoon,4,6,Habit,6,4,Commuting
+47,Other,Indonesia,37908,0,Labor/Worker,YouTube,280,6,9,13,17,81,Evening,8,2,Habit,10,0,At home
+48,Male,Mexico,92702,1,Students,Facebook,115,22,5,5,11,81,Night,1,9,Habit,3,7,At work
+52,Female,Mexico,29283,0,Artist,Instagram,226,16,4,26,38,81,Evening,6,4,Habit,8,2,Commuting
+54,Male,Pakistan,28004,0,driver,Instagram,227,6,2,19,39,81,Evening,6,4,Procrastination,8,2,At school
+56,Male,India,40219,0,Waiting staff,YouTube,178,9,6,9,15,81,Evening,5,5,Boredom,7,3,At work
+19,Male,Indonesia,99563,1,Artist,Instagram,221,13,2,25,26,82,Night,8,2,Boredom,10,0,At school
+20,Female,Indonesia,75103,1,Students,Instagram,178,4,9,10,43,82,Night,3,7,Habit,5,5,At school
+29,Male,India,25744,0,Manager,Facebook,140,7,6,20,16,82,Evening,5,5,Boredom,7,3,At work
+33,Male,India,37543,0,Waiting staff,Facebook,55,11,4,9,33,82,Evening,6,4,Procrastination,8,2,At work
+33,Female,Barzil,45556,0,driver,Instagram,98,20,4,15,40,82,Evening,6,4,Boredom,8,2,Commuting
+36,Male,Mexico,37087,0,Engineer,TikTok,33,19,9,25,29,82,Evening,6,4,Entertainment,8,2,Commuting
+38,Male,Indonesia,25793,0,Teacher,YouTube,25,21,2,24,7,82,Evening,8,2,Habit,10,0,At home
+48,Other,Barzil,87534,1,Labor/Worker,TikTok,279,14,7,10,11,82,Afternoon,6,4,Boredom,8,2,At work
+49,Male,India,43567,0,Labor/Worker,Instagram,195,26,3,9,14,82,Night,3,7,Entertainment,5,5,At school
+52,Male,Japan,84047,1,Waiting staff,Instagram,123,17,5,2,15,82,Night,2,8,Boredom,4,6,At school
+53,Other,Philippines,86093,1,Students,Instagram,214,19,2,10,40,82,Evening,5,5,Boredom,7,3,At school
+55,Female,Philippines,47606,0,Students,TikTok,290,25,3,9,9,82,Afternoon,3,7,Boredom,5,5,At home
+57,Male,United States,44259,0,driver,YouTube,197,14,5,27,24,82,Night,3,7,Habit,5,5,At school
+64,Male,Indonesia,75398,1,Labor/Worker,YouTube,197,5,4,5,15,82,Afternoon,6,4,Boredom,8,2,At home
+40,Male,Pakistan,47364,0,Waiting staff,Instagram,231,18,8,12,27,83,Evening,3,7,Habit,5,5,At home
+43,Female,India,74040,1,Students,Facebook,284,19,1,23,17,83,Morning,3,7,Boredom,5,5,At home
+45,Other,Vietnam,72870,1,Labor/Worker,YouTube,127,12,7,28,48,83,Morning,8,2,Boredom,10,0,At school
+46,Other,Mexico,64199,1,driver,TikTok,170,3,8,6,34,83,Afternoon,6,4,Habit,8,2,At school
+52,Male,United States,94964,1,Waiting staff,Facebook,115,26,8,3,35,83,Morning,9,1,Entertainment,10,0,At work
+25,Other,India,92766,1,Waiting staff,TikTok,198,24,2,28,47,84,Afternoon,5,5,Boredom,7,3,At work
+35,Male,Mexico,48228,0,Students,Facebook,219,13,8,14,44,84,Evening,6,4,Boredom,8,2,At home
+43,Female,Pakistan,59961,1,Cashier,Instagram,205,27,9,16,37,84,Night,3,7,Boredom,5,5,At home
+45,Female,India,30058,0,Students,Instagram,282,16,3,12,16,84,Night,2,8,Boredom,4,6,At home
+47,Male,Mexico,58333,1,Labor/Worker,Instagram,47,22,8,13,34,84,Night,3,7,Entertainment,5,5,Commuting
+53,Male,Mexico,76526,1,Teacher,YouTube,134,8,7,8,17,84,Evening,6,4,Procrastination,8,2,At home
+24,Male,Germany,87494,1,Students,Facebook,178,11,2,23,40,85,Morning,8,2,Boredom,10,0,At work
+26,Female,Philippines,34973,0,Students,TikTok,135,10,6,16,47,85,Morning,7,3,Entertainment,9,1,At home
+32,Male,India,62951,1,Engineer,YouTube,54,23,5,22,35,85,Evening,6,4,Procrastination,8,2,At home
+32,Other,Mexico,54742,1,Waiting staff,Facebook,210,12,7,19,14,85,Evening,6,4,Entertainment,8,2,At work
+33,Male,United States,91425,1,Waiting staff,TikTok,48,4,3,22,17,85,Evening,7,3,Boredom,9,1,At home
+38,Female,India,33975,0,Waiting staff,Facebook,49,14,6,11,23,85,Evening,6,4,Habit,8,2,At home
+45,Male,Pakistan,94083,1,Waiting staff,Instagram,64,25,8,7,49,85,Afternoon,8,2,Habit,10,0,At school
+57,Male,Pakistan,70290,1,Students,YouTube,48,4,7,6,26,85,Afternoon,5,5,Habit,7,3,At work
+63,Male,Barzil,85677,1,Waiting staff,Facebook,30,29,1,22,40,85,Evening,6,4,Habit,8,2,At home
+22,Female,India,27295,0,Students,Instagram,40,24,3,19,17,86,Afternoon,8,2,Habit,10,0,At home
+23,Male,Germany,56116,1,Waiting staff,Facebook,223,3,8,4,2,86,Afternoon,5,5,Entertainment,7,3,Commuting
+26,Other,United States,62417,1,Students,Instagram,194,12,5,4,48,86,Night,1,9,Procrastination,3,7,At work
+27,Male,United States,91155,1,Cashier,TikTok,62,19,9,2,12,86,Morning,7,3,Boredom,9,1,At home
+28,Male,Indonesia,50090,1,Students,TikTok,79,11,9,9,13,86,Evening,6,4,Entertainment,8,2,At work
+36,Female,Vietnam,51337,1,Artist,Instagram,25,20,3,9,33,86,Evening,6,4,Habit,8,2,At work
+41,Male,India,87028,1,Students,Instagram,273,9,8,21,18,86,Evening,6,4,Habit,8,2,At home
+61,Male,Japan,99057,1,driver,YouTube,13,12,9,17,8,86,Afternoon,5,5,Habit,7,3,At school
+61,Male,Philippines,88336,1,Waiting staff,TikTok,112,6,1,21,27,86,Afternoon,5,5,Entertainment,7,3,At work
+18,Female,Pakistan,39810,0,Waiting staff,TikTok,26,7,7,22,25,87,Evening,8,2,Boredom,10,0,At home
+20,Male,India,47624,0,Students,Instagram,117,21,9,27,45,87,Afternoon,5,5,Entertainment,7,3,At school
+20,Female,Philippines,77169,1,Waiting staff,Facebook,298,7,7,11,47,87,Night,1,9,Habit,3,7,At work
+26,Male,India,96449,1,Cashier,TikTok,113,25,8,23,49,87,Evening,5,5,Boredom,7,3,At school
+31,Male,India,78272,1,Students,Instagram,167,5,8,21,35,87,Night,3,7,Habit,5,5,At school
+35,Other,United States,71151,1,Labor/Worker,Instagram,219,21,8,8,13,87,Afternoon,4,6,Boredom,6,4,At home
+40,Male,India,21089,0,Engineer,Instagram,25,7,6,9,35,87,Night,3,7,Procrastination,5,5,At home
+42,Female,Philippines,55205,1,Students,Facebook,217,2,9,26,23,87,Night,6,4,Habit,8,2,Commuting
+44,Male,Germany,87843,1,Waiting staff,YouTube,75,27,2,14,39,87,Morning,8,2,Procrastination,10,0,At work
+44,Male,Philippines,39008,0,Engineer,TikTok,272,19,7,23,21,87,Night,3,7,Habit,5,5,At home
+45,Male,United States,94971,1,Students,Facebook,207,18,7,29,38,87,Afternoon,5,5,Habit,7,3,At home
+46,Other,United States,52174,1,Labor/Worker,Instagram,175,11,4,28,22,87,Afternoon,5,5,Entertainment,7,3,At school
+48,Other,United States,46917,0,Students,YouTube,181,9,6,18,9,87,Evening,6,4,Habit,8,2,At school
+50,Male,Indonesia,75661,1,Engineer,YouTube,116,2,9,21,16,87,Evening,6,4,Boredom,8,2,At work
+52,Male,Vietnam,35037,0,Labor/Worker,Instagram,111,15,1,10,16,87,Afternoon,5,5,Habit,7,3,At school
+55,Female,Germany,69429,1,Students,TikTok,104,2,9,10,3,87,Night,3,7,Boredom,5,5,Commuting
+56,Male,India,52972,1,Students,TikTok,26,3,7,25,12,87,Evening,6,4,Habit,8,2,At school
+56,Male,Pakistan,82812,1,Engineer,Instagram,80,24,5,26,22,87,Night,3,7,Procrastination,5,5,Commuting
+18,Male,Mexico,75296,1,driver,Facebook,157,10,2,25,37,88,Afternoon,5,5,Habit,7,3,Commuting
+19,Male,India,46170,0,Engineer,YouTube,182,22,6,17,38,88,Evening,6,4,Boredom,8,2,At school
+29,Female,Barzil,53623,1,Labor/Worker,TikTok,202,7,2,14,23,88,Night,3,7,Boredom,5,5,At school
+29,Female,India,68438,1,Labor/Worker,Instagram,38,18,2,2,46,88,Night,2,8,Entertainment,4,6,At home
+32,Female,United States,42436,0,Engineer,Facebook,30,19,3,9,7,88,Evening,6,4,Entertainment,8,2,At home
+32,Female,Pakistan,43648,0,Engineer,Instagram,188,1,7,23,6,88,Evening,6,4,Habit,8,2,At school
+33,Other,Philippines,96229,1,driver,Facebook,101,9,7,11,2,88,Evening,6,4,Entertainment,8,2,At school
+40,Female,India,78643,1,Engineer,Facebook,102,15,2,9,24,88,Evening,6,4,Boredom,8,2,At work
+41,Male,Germany,88673,1,Waiting staff,Instagram,47,16,7,27,18,88,Night,3,7,Boredom,5,5,Commuting
+53,Male,Philippines,27659,0,Labor/Worker,TikTok,223,18,4,6,32,88,Morning,6,4,Habit,8,2,At school
+54,Male,Vietnam,87904,1,Labor/Worker,TikTok,139,12,2,1,36,88,Night,8,2,Habit,10,0,At home
+62,Female,Philippines,28016,0,Labor/Worker,TikTok,241,27,8,14,45,88,Evening,8,2,Entertainment,10,0,At home
+62,Female,India,82491,1,Labor/Worker,Facebook,292,10,4,2,13,88,Night,3,7,Habit,5,5,At home
+18,Male,Japan,98518,1,Labor/Worker,TikTok,225,10,8,20,18,89,Morning,7,3,Procrastination,9,1,At work
+21,Male,Japan,69067,1,Engineer,YouTube,78,14,8,3,30,89,Evening,8,2,Boredom,10,0,At school
+23,Female,India,75751,1,Students,TikTok,246,8,3,5,26,89,Night,8,2,Habit,10,0,Commuting
+28,Female,Pakistan,72887,1,Students,YouTube,182,19,4,4,18,89,Evening,5,5,Entertainment,7,3,At school
+28,Male,Philippines,66099,1,Manager,Instagram,291,25,3,27,27,89,Evening,5,5,Procrastination,7,3,Commuting
+29,Other,Philippines,22454,0,Manager,TikTok,195,25,5,6,6,89,Night,1,9,Habit,3,7,At home
+32,Male,India,75718,1,Students,Facebook,112,28,7,26,5,89,Night,3,7,Boredom,5,5,Commuting
+40,Male,Indonesia,36154,0,driver,TikTok,14,27,9,5,26,89,Night,3,7,Habit,5,5,At home
+40,Female,India,22169,0,Teacher,TikTok,73,12,2,13,6,89,Night,1,9,Habit,3,7,At school
+49,Male,Pakistan,71098,1,Labor/Worker,Facebook,159,16,7,28,47,89,Afternoon,4,6,Habit,6,4,At school
+49,Male,United States,88803,1,Cashier,Facebook,121,22,3,22,41,89,Night,3,7,Habit,5,5,At home
+62,Female,United States,43481,0,Students,Facebook,19,21,4,8,22,89,Night,3,7,Boredom,5,5,At work
+20,Male,Mexico,31390,0,Cashier,YouTube,291,20,4,15,32,90,Evening,8,2,Boredom,10,0,At work
+22,Male,Mexico,88487,1,Labor/Worker,YouTube,103,7,1,17,31,90,Evening,8,2,Entertainment,10,0,At work
+36,Female,Barzil,35193,0,Labor/Worker,Instagram,146,21,5,3,6,90,Afternoon,8,2,Entertainment,10,0,At home
+36,Female,Mexico,78478,1,Labor/Worker,Instagram,35,13,5,16,4,90,Morning,7,3,Boredom,9,1,At home
+39,Male,United States,24213,0,Cashier,Facebook,246,12,8,14,40,90,Evening,6,4,Entertainment,8,2,At home
+43,Male,India,72389,1,Engineer,TikTok,25,18,1,24,34,90,Afternoon,8,2,Entertainment,10,0,At school
+43,Male,India,97275,1,Engineer,TikTok,209,29,1,8,2,90,Evening,6,4,Entertainment,8,2,At home
+46,Male,Mexico,26344,0,Cashier,YouTube,295,28,8,7,24,90,Evening,5,5,Entertainment,7,3,At work
+48,Female,India,43173,0,Labor/Worker,Instagram,115,8,3,12,44,90,Night,1,9,Boredom,3,7,At home
+50,Male,Mexico,72142,1,Manager,TikTok,58,10,5,6,47,90,Afternoon,5,5,Entertainment,7,3,At school
+50,Male,Barzil,94071,1,Waiting staff,YouTube,91,15,5,10,17,90,Night,3,7,Entertainment,5,5,At work
+54,Male,Philippines,70057,1,Students,YouTube,200,4,7,5,15,90,Afternoon,5,5,Boredom,7,3,At school
+56,Other,United States,42190,0,driver,YouTube,74,16,7,15,40,90,Morning,9,1,Habit,10,0,At home
+62,Male,India,48308,0,Labor/Worker,Facebook,116,12,7,20,39,90,Afternoon,4,6,Procrastination,6,4,At home
+18,Female,United States,94658,1,Engineer,YouTube,185,21,4,1,27,91,Evening,6,4,Habit,8,2,At work
+19,Male,India,53204,1,driver,TikTok,236,15,2,1,14,91,Evening,8,2,Entertainment,10,0,At home
+19,Male,India,52994,1,Students,YouTube,171,22,1,17,22,91,Evening,6,4,Boredom,8,2,At school
+20,Female,Japan,85031,1,Cashier,YouTube,267,17,7,10,14,91,Evening,6,4,Habit,8,2,At school
+26,Female,India,40354,0,Students,Instagram,207,6,6,9,18,91,Afternoon,5,5,Habit,7,3,At work
+28,Other,United States,35078,0,Students,YouTube,165,6,6,4,47,91,Evening,6,4,Boredom,8,2,At home
+29,Male,Vietnam,97313,1,Students,Instagram,68,19,8,14,17,91,Morning,9,1,Boredom,10,0,At home
+34,Male,Japan,73117,1,Waiting staff,TikTok,124,14,8,21,46,91,Night,8,2,Entertainment,10,0,At work
+41,Male,Philippines,38888,0,Labor/Worker,Instagram,208,10,1,18,49,91,Evening,6,4,Boredom,8,2,At home
+44,Male,India,57481,1,driver,TikTok,118,5,5,16,10,91,Evening,6,4,Entertainment,8,2,At home
+52,Female,United States,36923,0,Cashier,Instagram,146,14,9,23,25,91,Night,6,4,Boredom,8,2,At work
+61,Female,Mexico,33140,0,Waiting staff,Facebook,263,14,8,25,12,91,Evening,6,4,Boredom,8,2,At home
+39,Female,India,81440,1,driver,YouTube,35,11,2,14,5,92,Evening,7,3,Boredom,9,1,At home
+39,Male,Vietnam,68695,1,Engineer,Instagram,279,13,5,6,30,92,Night,3,7,Habit,5,5,At school
+49,Male,Vietnam,87628,1,Engineer,Instagram,213,20,5,21,16,92,Night,8,2,Entertainment,10,0,At school
+52,Male,Pakistan,42746,0,Students,TikTok,12,16,3,28,34,92,Evening,6,4,Habit,8,2,At school
+53,Other,Barzil,44472,0,Students,Facebook,118,7,4,24,1,92,Evening,3,7,Boredom,5,5,At work
+60,Female,Japan,81001,1,Students,Instagram,278,21,7,19,6,92,Night,3,7,Boredom,5,5,At work
+64,Male,Japan,86852,1,Labor/Worker,Instagram,27,26,3,12,33,92,Night,6,4,Entertainment,8,2,At school
+64,Male,Barzil,82032,1,Labor/Worker,Instagram,157,20,8,1,13,92,Night,3,7,Boredom,5,5,At home
+20,Other,India,38099,0,Teacher,Facebook,81,5,4,18,20,93,Morning,8,2,Habit,10,0,At home
+20,Other,United States,61627,1,Labor/Worker,TikTok,155,5,2,1,30,93,Evening,6,4,Entertainment,8,2,Commuting
+23,Female,Germany,72428,1,Teacher,Facebook,160,26,6,24,20,93,Night,6,4,Habit,8,2,At school
+27,Male,Philippines,83922,1,Labor/Worker,TikTok,179,8,1,10,3,93,Afternoon,4,6,Entertainment,6,4,At home
+28,Male,Vietnam,99063,1,Manager,YouTube,256,24,8,18,15,93,Afternoon,4,6,Entertainment,6,4,At work
+33,Male,India,82154,1,Teacher,TikTok,255,7,6,10,40,93,Morning,7,3,Boredom,9,1,At work
+37,Male,United States,41607,0,driver,TikTok,18,25,5,6,9,93,Evening,3,7,Procrastination,5,5,At home
+45,Female,Indonesia,26530,0,Teacher,Instagram,65,9,8,8,19,93,Evening,6,4,Habit,8,2,At work
+50,Male,Vietnam,56976,1,Waiting staff,Instagram,152,21,1,15,18,93,Morning,7,3,Habit,9,1,At home
+50,Male,Barzil,94813,1,Students,Instagram,226,19,3,11,35,93,Evening,6,4,Habit,8,2,At home
+60,Male,Barzil,62963,1,Waiting staff,YouTube,101,4,2,6,41,93,Night,3,7,Habit,5,5,Commuting
+19,Female,India,38681,0,Students,Facebook,26,8,5,3,16,94,Evening,6,4,Boredom,8,2,At school
+22,Other,Mexico,46943,0,Students,YouTube,101,20,5,5,31,94,Afternoon,4,6,Entertainment,6,4,At home
+27,Male,Indonesia,77714,1,Labor/Worker,Instagram,108,22,9,16,8,94,Night,3,7,Boredom,5,5,At home
+31,Female,United States,54773,1,Cashier,Instagram,21,5,4,9,39,94,Night,8,2,Boredom,10,0,Commuting
+49,Male,Pakistan,45150,0,Waiting staff,TikTok,48,1,6,28,35,94,Evening,6,4,Habit,8,2,At home
+49,Male,Vietnam,74400,1,Waiting staff,Instagram,112,7,9,23,45,94,Evening,6,4,Habit,8,2,At home
+57,Other,Mexico,99623,1,Labor/Worker,Instagram,24,29,9,18,19,94,Afternoon,9,1,Habit,10,0,At school
+62,Female,Vietnam,75690,1,Labor/Worker,Facebook,244,20,1,25,5,94,Evening,5,5,Procrastination,7,3,At school
+19,Male,India,48795,0,Students,YouTube,240,25,5,25,31,95,Night,3,7,Procrastination,5,5,At work
+36,Other,Pakistan,99676,1,Students,Instagram,264,9,7,16,35,95,Afternoon,5,5,Habit,7,3,At work
+48,Other,Philippines,62891,1,driver,YouTube,138,8,9,20,6,95,Night,3,7,Procrastination,5,5,At school
+52,Male,United States,78810,1,Students,Instagram,38,15,3,16,31,95,Night,3,7,Habit,5,5,At work
+53,Female,India,87411,1,Students,Facebook,137,7,5,14,14,95,Night,2,8,Entertainment,4,6,At home
+54,Male,India,35038,0,Students,TikTok,265,1,1,23,43,95,Morning,8,2,Procrastination,10,0,At school
+56,Other,Pakistan,46672,0,driver,TikTok,235,16,5,14,1,95,Morning,6,4,Habit,8,2,At home
+57,Male,Japan,49165,0,Labor/Worker,Instagram,257,23,5,20,17,95,Night,3,7,Entertainment,5,5,At home
+58,Other,Philippines,75077,1,driver,YouTube,62,21,4,19,17,95,Afternoon,5,5,Habit,7,3,At home
+60,Male,Philippines,78608,1,Waiting staff,Instagram,48,13,8,1,37,95,Night,3,7,Procrastination,5,5,At home
+18,Female,Pakistan,83671,1,Students,TikTok,225,7,8,4,15,96,Afternoon,6,4,Habit,8,2,At home
+19,Male,United States,54610,1,Students,TikTok,94,26,9,17,10,96,Evening,7,3,Habit,9,1,At work
+19,Male,Philippines,25845,0,Labor/Worker,Facebook,130,8,8,25,33,96,Evening,5,5,Entertainment,7,3,At home
+20,Other,Japan,85087,1,Waiting staff,Instagram,209,23,7,9,2,96,Morning,8,2,Habit,10,0,At home
+28,Male,Germany,42736,0,Students,Facebook,146,20,2,13,23,96,Night,3,7,Boredom,5,5,Commuting
+30,Male,United States,34567,0,Labor/Worker,Instagram,100,1,6,21,23,96,Evening,6,4,Habit,8,2,At work
+37,Male,United States,97988,1,Engineer,TikTok,288,25,1,17,7,96,Evening,5,5,Habit,7,3,At school
+50,Other,Philippines,43377,0,Labor/Worker,Instagram,31,1,4,18,4,96,Night,2,8,Habit,4,6,At work
+51,Other,Pakistan,20159,0,Students,YouTube,130,24,2,12,3,96,Night,8,2,Boredom,10,0,At home
+56,Female,India,79871,1,Waiting staff,Instagram,111,27,4,7,45,96,Morning,8,2,Entertainment,10,0,At work
+57,Female,United States,38058,0,Students,Instagram,147,8,4,29,37,96,Afternoon,5,5,Habit,7,3,At school
+21,Female,Japan,56788,1,Waiting staff,Instagram,123,28,4,3,43,97,Night,2,8,Boredom,4,6,At work
+22,Male,Pakistan,63732,1,Manager,Instagram,48,7,7,25,7,97,Evening,6,4,Boredom,8,2,At work
+25,Female,United States,31308,0,Waiting staff,YouTube,220,16,9,14,44,97,Morning,8,2,Boredom,8,2,At school
+31,Female,Philippines,75835,1,Students,YouTube,52,7,8,24,7,97,Night,6,4,Habit,8,2,At home
+32,Female,Indonesia,24378,0,driver,YouTube,75,1,4,5,14,97,Evening,6,4,Procrastination,8,2,At home
+34,Female,Mexico,77134,1,Engineer,Facebook,208,6,9,19,15,97,Afternoon,8,2,Habit,10,0,At home
+35,Female,United States,75621,1,Labor/Worker,Instagram,162,15,3,19,18,97,Evening,8,2,Entertainment,10,0,At work
+44,Male,India,33283,0,Labor/Worker,TikTok,92,10,4,13,42,97,Afternoon,4,6,Habit,6,4,At school
+45,Male,Philippines,63148,1,Waiting staff,Facebook,160,17,9,17,23,97,Afternoon,8,2,Entertainment,10,0,At school
+46,Male,Pakistan,22282,0,Students,TikTok,153,23,3,7,28,97,Afternoon,6,4,Boredom,8,2,At school
+46,Female,India,91274,1,Waiting staff,TikTok,13,10,3,8,44,97,Morning,3,7,Boredom,5,5,At home
+50,Other,India,38708,0,Labor/Worker,TikTok,288,26,1,10,8,97,Evening,6,4,Habit,8,2,At work
+53,Other,Germany,38971,0,Waiting staff,Instagram,228,14,3,14,4,97,Evening,6,4,Entertainment,8,2,At work
+59,Female,Barzil,36724,0,Artist,TikTok,33,25,4,26,6,97,Night,3,7,Boredom,5,5,At school
+18,Other,Mexico,82368,1,Waiting staff,YouTube,162,9,8,15,4,98,Morning,8,2,Entertainment,10,0,At school
+20,Male,Japan,38351,0,Students,TikTok,52,10,3,21,42,98,Morning,8,2,Entertainment,10,0,At home
+25,Female,India,98258,1,driver,Facebook,264,16,3,2,45,98,Night,3,7,Habit,5,5,At home
+50,Male,Vietnam,70085,1,Manager,YouTube,198,5,8,27,3,98,Afternoon,5,5,Boredom,7,3,Commuting
+51,Male,India,36566,0,Waiting staff,Instagram,29,29,4,7,17,98,Morning,6,4,Habit,8,2,At school
+53,Female,Philippines,99003,1,driver,Facebook,251,13,2,12,14,98,Evening,7,3,Procrastination,9,1,At school
+54,Other,Barzil,83870,1,Labor/Worker,TikTok,97,1,5,29,19,98,Night,3,7,Habit,5,5,At home
+64,Female,United States,74120,1,Students,YouTube,205,3,3,19,20,98,Afternoon,9,1,Habit,10,0,At home
+64,Female,Mexico,43554,0,Waiting staff,TikTok,143,15,1,3,4,98,Afternoon,3,7,Boredom,5,5,At home
+20,Female,India,76699,1,Students,YouTube,78,16,8,18,27,99,Night,6,4,Boredom,8,2,At home
+22,Male,Vietnam,72780,1,Labor/Worker,TikTok,58,3,8,7,22,99,Night,2,8,Boredom,4,6,At school
+23,Female,Indonesia,83315,1,Students,YouTube,218,29,4,2,35,99,Evening,6,4,Habit,8,2,At school
+43,Male,Philippines,25463,0,Students,TikTok,280,25,3,6,37,99,Night,3,7,Entertainment,5,5,At work
+44,Female,Barzil,97842,1,Engineer,TikTok,183,10,3,15,16,99,Evening,5,5,Boredom,7,3,Commuting
+59,Male,Mexico,61971,1,Waiting staff,Facebook,280,18,5,16,5,99,Morning,8,2,Entertainment,10,0,At work
+61,Female,Mexico,46928,0,Students,YouTube,295,1,1,15,4,99,Evening,6,4,Habit,8,2,At home
+63,Male,United States,51705,1,Students,Instagram,256,19,8,5,31,99,Evening,7,3,Procrastination,9,1,At home
