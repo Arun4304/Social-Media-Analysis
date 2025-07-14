@@ -36,12 +36,12 @@ st.pyplot(fig)
 st.subheader("💥 Addiction Level by Age Group")
 
 fig, ax = plt.subplots()
-sns.boxplot(data=filtered_df, x="Platform", y="Addiction Level", ax=ax)
+sns.boxplot(data=filtered_df, x="Platform", y="Addiction_Level", ax=ax)
 st.pyplot(fig)
 
 st.subheader("📉 Productivity Loss by Watch Reason")
 
 fig, ax = plt.subplots()
-sns.barplot(data=filtered_df, x="Watch Reason", y="Productivity Loss", estimator="mean", ax=ax)
+sns.barplot(data=filtered_df, x="Watch_Reason", y="Productivity_Loss", estimator="mean", ax=ax)
 plt.xticks(rotation=45)
 st.pyplot(fig)
